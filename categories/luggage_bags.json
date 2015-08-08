@@ -1,0 +1,90 @@
+{
+    "name": "Luggage & Bags",
+    "subcategory":[
+        {
+            "name": "Backpack Accessories",
+            "subcategory":[
+                {
+                    "name":"Backpack Covers"
+                }
+            ]
+        },
+        {
+            "name": "Backpacks"
+        },
+        {
+            "name": "Business Bags",
+            "subcategory":[
+                {
+                    "name": "Briefcases"
+                },
+                {
+                    "name": "Electronics Bags & Cases",
+                    "subcategory":[
+                        {
+                            "name":"Computer Skins & Sleeves"
+                        },
+                        {
+                            "name":"Laptop Bags & Cases"
+                        },
+                        {
+                            "name":"Tablet Computer Bags & Cases"
+                        }
+                    ]
+                },
+                {
+                    "name": "Garment Bags"
+                }
+            ]
+        },
+        {
+            "name": "Cosmetic & Toiletry Bags"
+        },
+        {
+            "name": "Diaper Bags"
+        },
+        {
+            "name": "Duffel Bags"
+        },
+        {
+            "name": "Fanny Packs"
+        },
+        {
+            "name": "Luggage Accessories",
+            "subcategory":[
+                {
+                    "name": "Luggage Straps"
+                },
+                {
+                    "name": "Luggage Tags"
+                },
+                {
+                    "name": "Packing Organizers"
+                },
+                {
+                    "name": "Travel Bottles & Containers"
+                },
+                {
+                    "name": "Travel Pouches"
+                }
+            ]
+        },
+        {
+            "name": "Messenger Bags"
+        },
+        {
+            "name": "Shopping Totes"
+        },
+        {
+            "name": "Suitcases",
+            "subcategory":[
+                {
+                    "name":"Carry-On Luggage"
+                }
+            ]
+        },
+        {
+            "name": "Train Cases"
+        }
+    ]
+}

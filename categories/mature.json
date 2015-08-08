@@ -1,0 +1,109 @@
+{
+    "name": "Mature",
+    "subcategory":[
+        {
+            "name": "Erotic",
+            "subcategory":[
+                {
+                    "name": "Erotic Books",
+                    "subcategory":[
+                        {
+                            "name":"Erotic Comics"
+                        }
+                    ]
+                },
+                {
+                    "name": "Erotic Clothing"
+                },
+                {
+                    "name": "Erotic DVDs & Videos"
+                },
+                {
+                    "name": "Erotic Food & Edibles"
+                },
+                {
+                    "name": "Erotic Games"
+                },
+                {
+                    "name": "Erotic Magazines"
+                },
+                {
+                    "name": "Pole Dancing Kits"
+                },
+                {
+                    "name": "Sex Toys"
+                }
+            ]
+        },
+        {
+            "name": "Weapons",
+            "subcategory":[
+                {
+                    "name": "Brass Knuckles"
+                },
+                {
+                    "name": "Clubs"
+                },
+                {
+                    "name": "Combat Knives"
+                },
+                {
+                    "name": "Gun Accessories",
+                    "subcategory":[
+                        {
+                            "name": "Ammunition"
+                        },
+                        {
+                            "name": "Ammunition Belts"
+                        },
+                        {
+                            "name": "Ammunition Boxes"
+                        },
+                        {
+                            "name": "Gun Bags & Cases"
+                        },
+                        {
+                            "name": "Gun Grips"
+                        },
+                        {
+                            "name": "Gun Holsters"
+                        },
+                        {
+                            "name": "Gun Lights"
+                        },
+                        {
+                            "name": "Gun Rails"
+                        }
+                    ]
+                },
+                {
+                    "name": "Guns"
+                },
+                {
+                    "name": "Mace & Pepper Spray"
+                },
+                {
+                    "name": "Nunchucks"
+                },
+                {
+                    "name": "Spears"
+                },
+                {
+                    "name": "Staff & Stick Weapons"
+                },
+                {
+                    "name": "Stun Guns & Tasers"
+                },
+                {
+                    "name": "Swords"
+                },
+                {
+                    "name": "Throwing Stars"
+                },
+                {
+                    "name": "Whips"
+                }
+            ]
+        }
+    ]
+}

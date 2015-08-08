@@ -1,0 +1,236 @@
+{
+    "name": "Software",
+    "subcategory":[ 
+        {
+            "name": "Computer Software",
+            "subcategory":[
+                {
+                    "name": "Antivirus & Security Software"
+                },
+                {
+                    "name": "Business & Productivity Software"
+                },
+                {
+                    "name": "Compilers & Programming Tools"
+                },
+                {
+                    "name": "Computer Utilities & Maintenance"
+                },
+                {
+                    "name": "Educational Software"
+                },
+                {
+                    "name": "Financial. Tax & Accounting Software"
+                },
+                {
+                    "name": "Handheld & PDA Software"
+                },
+                {
+                    "name": "Multimedia & Design Software",
+                    "subcategory":[
+                        {
+                            "name": "3D Modeling Software"
+                        },
+                        {
+                            "name": "Animation Editing Software"
+                        },
+                        {
+                            "name": "Graphic Design & Illustration Software"
+                        },
+                        {
+                            "name": "Home & Interior Design Software"
+                        },
+                        {
+                            "name": "Home Publishing Software"
+                        },
+                        {
+                            "name": "Media Viewing Software"
+                        },
+                        {
+                            "name": "Music Composition Software"
+                        },
+                        {
+                            "name": "Sound Editing Software"
+                        },
+                        {
+                            "name": "Video Editing Software"
+                        },
+                        {
+                            "name": "Web Design Software"
+                        }
+                    ]
+                },
+                {
+                    "name": "Network Software"
+                },
+                {
+                    "name": "Office Application Software"
+                },
+                {
+                    "name": "Operating Systems"
+                },
+                {
+                    "name": "Reference Software",
+                    "subcategory":[
+                        {
+                            "name": "Dictionary & Translation Software"
+                        },
+                        {
+                            "name": "GPS Map Data & Software"
+                        }
+                    ]
+                },
+                {
+                    "name": "Restore Disks"
+                }
+            ]
+        },
+        {
+            "name": "Digital Goods & Currency",
+            "subcategory":[
+                {
+                    "name": "Clip Art"
+                },
+                {
+                    "name": "Computer Icons"
+                },
+                {
+                    "name": "Desktop Wallpaper"
+                },
+                {
+                    "name": "Document Templates"
+                },
+                {
+                    "name": "Fonts"
+                },
+                {
+                    "name": "Virtual Currency"
+                }
+            ]
+        },
+        {
+            "name": "Video Game Software",
+            "subcategory":[
+                {
+                    "name": "All Game Boy Games",
+                    "subcategory":[
+                        {
+                            "name": "Game Boy Advance Games"
+                        },
+                        {
+                            "name": "Game Boy Games"
+                        }
+                    ]
+                },
+                {
+                    "name": "All PlayStation Games",
+                    "subcategory":[
+                        {
+                            "name": "PlayStation (original) Games"
+                        },
+                        {
+                            "name": "PlayStation 2 Games"
+                        },
+                        {
+                            "name": "PlayStation 3 Games"
+                        }
+                    ]
+                },
+                {
+                    "name": "All XBox Games",
+                    "subcategory":[
+                        {
+                            "name": "XBox (original) Games"
+                        },
+                        {
+                            "name": "XBox 360 Games"
+                        }
+                    ]
+                },
+                {
+                    "name": "Atari 2600 Games"
+                },
+                {
+                    "name": "Atari 5200 Games"
+                },
+                {
+                    "name": "Atari Lynx Games"
+                },
+                {
+                    "name": "ColecoVision Games"
+                },
+                {
+                    "name": "Computer Games",
+                    "subcategory":[
+                        {
+                            "name": "Mac Games"
+                        },
+                        {
+                            "name": "PC Games"
+                        }
+                    ]
+                },
+                {
+                    "name": "Dreamcast Games"
+                },
+                {
+                    "name": "Game Gear Games"
+                },
+                {
+                    "name": "GameCube Games"
+                },
+                {
+                    "name": "Intellivision Games"
+                },
+                {
+                    "name": "Jaguar Games"
+                },
+                {
+                    "name": "LeapFrog Games"
+                },
+                {
+                    "name": "N-Gage Games"
+                },
+                {
+                    "name": "Neo Geo Games"
+                },
+                {
+                    "name": "Neo Geo Pocket Games"
+                },
+                {
+                    "name": "Nintendo 64 Games"
+                },
+                {
+                    "name": "Nintendo DS Games"
+                },
+                {
+                    "name": "Nintendo Entertainment System Games"
+                },
+                {
+                    "name": "PlayStation Portable Games"
+                },
+                {
+                    "name": "PlayStation Vita Games"
+                },
+                {
+                    "name": "Sega Genesis Games"
+                },
+                {
+                    "name": "Sega Master System Games"
+                },
+                {
+                    "name": "Super Nintendo Games"
+                },
+                {
+                    "name": "Turbografx 16 Games"
+                },
+                {
+                    "name": "Wii Games"
+                },
+                {
+                    "name": "Wii U Games"
+                }
+            ]
+        }
+    ]
+}

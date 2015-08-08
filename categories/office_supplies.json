@@ -1,0 +1,546 @@
+{
+    "name": "Office Supplies",
+    "subcategory":[
+        {
+            "name": "Book Accessories",
+            "subcategory":[
+                {
+                    "name": "Book Covers"
+                },
+                {
+                    "name": "Book Lights"
+                },
+                {
+                    "name": "Book Stands & Rests"
+                },
+                {
+                    "name": "Bookmarks"
+                }
+            ]
+        },
+        {
+            "name": "Filing & Organization",
+            "subcategory":[
+                {
+                    "name": "Address Books"
+                },
+                {
+                    "name": "Binding Supplies",
+                    "subcategory":[
+                        {
+                            "name": "Binder Accessories",
+                            "subcategory":[
+                                {
+                                    "name": "Binder Rings"
+                                },
+                                {
+                                    "name": "Index Dividers"
+                                },
+                                {
+                                    "name": "Sheet Protectors"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Binders"
+                        },
+                        {
+                            "name": "Binding Combs & Spines"
+                        },
+                        {
+                            "name": "Binding Machines"
+                        }
+                    ]
+                },
+                {
+                    "name": "Business Card Books"
+                },
+                {
+                    "name": "Business Card Stands"
+                },
+                {
+                    "name": "CD/DVD Organizers",
+                    "subcategory":[
+                        {
+                            "name": "CD/DVD Pouches & Visors"
+                        },
+                        {
+                            "name": "CD/DVD Sleeves"
+                        },
+                        {
+                            "name": "Jewel Cases"
+                        }
+                    ]
+                },
+                {
+                    "name": "Calendars. Organizers & Planners"
+                },
+                {
+                    "name": "Card Files"
+                },
+                {
+                    "name": "Card Sleeves"
+                },
+                {
+                    "name": "Cash Boxes"
+                },
+                {
+                    "name": "Desk Organizers",
+                    "subcategory":[
+                        {
+                            "name":"Desk Trays"
+                        }
+                    ]
+                },
+                {
+                    "name": "File Boxes"
+                },
+                {
+                    "name": "File Folders"
+                },
+                {
+                    "name": "Folders & Report Covers"
+                },
+                {
+                    "name": "Greeting Card Organizers"
+                },
+                {
+                    "name": "Laminating",
+                    "subcategory":[
+                        {
+                            "name": "Laminating Film. Pouches & Sheets"
+                        },
+                        {
+                            "name": "Laminators"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mail Sorters"
+                },
+                {
+                    "name": "Pen & Pencil Cases"
+                },
+                {
+                    "name": "Portfolios & Padfolios"
+                },
+                {
+                    "name": "Recipe Card Boxes"
+                },
+                {
+                    "name": "Storage Lockers & Cabinets"
+                }
+            ]
+        },
+        {
+            "name": "General Supplies",
+            "subcategory":[
+                {
+                    "name": "Adhesives",
+                    "subcategory":[
+                        {
+                            "name":"Office Tape"
+                        }
+                    ]
+                },
+                {
+                    "name": "Brass Fasteners"
+                },
+                {
+                    "name": "Correction",
+                    "subcategory":[
+                        {
+                            "name": "Correction Fluids. Pens & Tapes"
+                        },
+                        {
+                            "name": "Erasers"
+                        }
+                    ]
+                },
+                {
+                    "name": "Labels & Tags",
+                    "subcategory":[
+                        {
+                            "name": "Address Labels"
+                        },
+                        {
+                            "name": "Folder Tabs"
+                        },
+                        {
+                            "name": "Label Clips"
+                        },
+                        {
+                            "name": "Label Maker Tape"
+                        },
+                        {
+                            "name": "Shipping Labels"
+                        },
+                        {
+                            "name": "Shipping Tags"
+                        }
+                    ]
+                },
+                {
+                    "name": "Paper Clips & Clamps"
+                },
+                {
+                    "name": "Paper Products",
+                    "subcategory":[
+                        {
+                            "name": "Binder Paper"
+                        },
+                        {
+                            "name": "Blank ID Cards"
+                        },
+                        {
+                            "name": "Business Cards"
+                        },
+                        {
+                            "name": "Business Forms & Receipts"
+                        },
+                        {
+                            "name": "Checks"
+                        },
+                        {
+                            "name": "Cover Paper"
+                        },
+                        {
+                            "name": "Envelopes"
+                        },
+                        {
+                            "name": "Index Cards"
+                        },
+                        {
+                            "name": "Notebooks & Notepads"
+                        },
+                        {
+                            "name": "Post Cards"
+                        },
+                        {
+                            "name": "Printer & Copier Paper",
+                            "subcategory":[
+                                {
+                                    "name":"Photo Printer Paper"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Receipt Paper Rolls"
+                        },
+                        {
+                            "name": "Stationery"
+                        },
+                        {
+                            "name": "Sticky Notes"
+                        }
+                    ]
+                },
+                {
+                    "name": "Rubber Bands"
+                },
+                {
+                    "name": "Stamp Pads & Inks"
+                },
+                {
+                    "name": "Staples"
+                },
+                {
+                    "name": "Tacks & Pushpins"
+                }
+            ]
+        },
+        {
+            "name": "Impulse Sealers"
+        },
+        {
+            "name": "Name Plates"
+        },
+        {
+            "name": "Office & Chair Mats",
+            "subcategory":[
+                {
+                    "name": "Anti-Fatigue Mats"
+                },
+                {
+                    "name": "Chair Mats"
+                },
+                {
+                    "name": "Office Mats"
+                }
+            ]
+        },
+        {
+            "name": "Office Carts",
+            "subcategory":[
+                {
+                    "name": "AV Carts"
+                },
+                {
+                    "name": "Book Carts"
+                },
+                {
+                    "name": "File Carts"
+                },
+                {
+                    "name": "Mail Carts"
+                },
+                {
+                    "name": "Utility Carts"
+                }
+            ]
+        },
+        {
+            "name": "Office Equipment",
+            "subcategory":[
+                {
+                    "name": "Calculators"
+                },
+                {
+                    "name": "Electronic Dictionaries & Translators"
+                },
+                {
+                    "name": "Label Makers"
+                },
+                {
+                    "name": "Office Shredders"
+                },
+                {
+                    "name": "Postage Meters"
+                },
+                {
+                    "name": "Time & Attendance Clocks"
+                },
+                {
+                    "name": "Transcribers & Dictation Systems"
+                },
+                {
+                    "name": "Typewriters"
+                }
+            ]
+        },
+        {
+            "name": "Office Instruments",
+            "subcategory":[
+                {
+                    "name": "Call Bells"
+                },
+                {
+                    "name": "Clipboards"
+                },
+                {
+                    "name": "Magnifiers"
+                },
+                {
+                    "name": "Office Rulers"
+                },
+                {
+                    "name": "Pencil Sharpeners"
+                },
+                {
+                    "name": "Rubber Stamps",
+                    "subcategory":[
+                        {
+                            "name": "Decorative Rubber Stamps"
+                        },
+                        {
+                            "name": "Office Rubber Stamps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Scissors"
+                },
+                {
+                    "name": "Staple Removers"
+                },
+                {
+                    "name": "Staplers"
+                },
+                {
+                    "name": "Writing & Drawing Instrument Accessories",
+                    "subcategory":[
+                        {
+                            "name": "Marker & Highlighter Ink Refills"
+                        },
+                        {
+                            "name": "Pen Ink & Refills"
+                        },
+                        {
+                            "name": "Pen Replacement Tips"
+                        },
+                        {
+                            "name": "Pencil Lead & Refills"
+                        }
+                    ]
+                },
+                {
+                    "name": "Writing & Drawing Instruments",
+                    "subcategory":[
+                        {
+                            "name": "Art Charcoals"
+                        },
+                        {
+                            "name": "Chalk"
+                        },
+                        {
+                            "name": "Crayons"
+                        },
+                        {
+                            "name": "Markers & Highlighters"
+                        },
+                        {
+                            "name": "Pastels"
+                        },
+                        {
+                            "name": "Pens & Pencils",
+                            "subcategory":[
+                                {
+                                    "name": "Multifunction Writing Instruments"
+                                },
+                                {
+                                    "name": "Pen & Pencil Sets"
+                                },
+                                {
+                                    "name": "Pencils",
+                                    "subcategory":[
+                                        {
+                                            "name":"Art Pencils"
+                                        },
+                                        {
+                                            "name":"Writing Pencils"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Pens"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Paper Handling",
+            "subcategory":[
+                {
+                    "name": "Craft Knives"
+                },
+                {
+                    "name": "Cutting Mats"
+                },
+                {
+                    "name": "Fingertip Grips"
+                },
+                {
+                    "name": "Hole Punches",
+                    "subcategory":[
+                        {
+                            "name": "Decorative Hole Punches"
+                        },
+                        {
+                            "name": "Office Hole Punches"
+                        }
+                    ]
+                },
+                {
+                    "name": "Paper Cutter Accessories",
+                    "subcategory":[
+                        {
+                            "name":"Paper Cutter Stands"
+                        }
+                    ]
+                },
+                {
+                    "name": "Paper Cutters"
+                },
+                {
+                    "name": "Paper Folding Machines"
+                },
+                {
+                    "name": "Paper Joggers"
+                },
+                {
+                    "name": "Paperweights"
+                },
+                {
+                    "name": "Pencil Boards"
+                }
+            ]
+        },
+        {
+            "name": "Presentation Supplies",
+            "subcategory":[
+                {
+                    "name": "Chalkboards"
+                },
+                {
+                    "name": "Display Boards",
+                    "subcategory":[
+                        {
+                            "name": "Bulletin Board Accessories",
+                            "subcategory":[
+                                {
+                                    "name":"Bulletin Board Trim"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Bulletin Boards"
+                        },
+                        {
+                            "name": "Foam Boards"
+                        },
+                        {
+                            "name": "Mounting Boards"
+                        },
+                        {
+                            "name": "Poster Boards"
+                        }
+                    ]
+                },
+                {
+                    "name": "Document Cameras"
+                },
+                {
+                    "name": "Easel Pads"
+                },
+                {
+                    "name": "Easels"
+                },
+                {
+                    "name": "Laser Pointers"
+                },
+                {
+                    "name": "Lecterns"
+                },
+                {
+                    "name": "Transparencies"
+                },
+                {
+                    "name": "Whiteboards"
+                },
+                {
+                    "name": "Wireless Presenters"
+                }
+            ]
+        },
+        {
+            "name": "Shipping Supplies",
+            "subcategory":[
+                {
+                    "name": "Packing Materials"
+                },
+                {
+                    "name": "Packing Tape"
+                },
+                {
+                    "name": "Postal Scales"
+                },
+                {
+                    "name": "Shipping Boxes"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1858 @@
+{
+    "name": "Electronics",
+    "subcategory": [
+        {
+            "name": "3D Printers"
+        },
+        {
+            "name": "Arcade Equipment",
+            "subcategory": [
+                {
+                    "name": "Pinball Machine Accessories"
+                },
+                {
+                    "name": "Pinball Machines"
+                },
+                {
+                    "name": "Skee-Ball Machines"
+                },
+                {
+                    "name": "Video Game Arcade Cabinet Accessories"
+                },
+                {
+                    "name": "Video Game Arcade Cabinets"
+                }
+            ]
+        },
+        {
+            "name": "Audio",
+            "subcategory": [
+                {
+                    "name": "Audio Accessories",
+                    "subcategory":[
+                        {
+                            "name": "Headphone Accessories",
+                            "subcategory":[
+                                {
+                                    "name": "Headphone Cushions"
+                                },
+                                {
+                                    "name": "Headphone Ear Tips"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Karaoke System Accessories",
+                            "subcategory":[
+                                {
+                                    "name": "Karaoke Chips"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "MP3 Player Accessories",
+                            "subcategory":[
+                                {
+                                    "name": "MP3 Player & Mobile Phone Accessory Sets"
+                                },
+                                {
+                                    "name": "MP3 Player Cases"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Microphone Accessories",
+                            "subcategory":[
+                                {
+                                    "name": "Microphone Stands"
+                                },
+                                {
+                                    "name": "Microphone Windscreens"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Satellite Radio Accessories"
+                        },
+                        {
+                            "name": "Speaker Accessories",
+                            "subcategory":[
+                                {
+                                    "name": "Speaker Grill Fabric"
+                                },
+                                {
+                                    "name": "Speaker Stand Bags"
+                                },
+                                {
+                                    "name": "Speaker Stands"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Turntable Accessories",
+                            "subcategory":[
+                                {
+                                    "name": "Turntable Cartridges & Needles"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Audio Components",
+                    "subcategory":[
+                        {
+                            "name": "Audio & Video Receivers"
+                        },
+                        {
+                            "name": "Audio Amplifiers",
+                            "subcategory":[
+                                {
+                                    "name": "Headphone Amplifiers"
+                                },
+                                {
+                                    "name": "Power Amplifiers"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Audio Mixers"
+                        },
+                        {
+                            "name": "Audio Transmitters",
+                            "subcategory":[
+                                {
+                                    "name": "Bluetooth Transmitters"
+                                },
+                                {
+                                    "name": "FM Transmitters"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Channel Strips"
+                        },
+                        {
+                            "name": "Direct Boxes"
+                        },
+                        {
+                            "name": "Headphones"
+                        },
+                        {
+                            "name": "Microphones",
+                            "subcategory":[
+                                {
+                                    "name": "Video Camera Microphones"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Signal Processors",
+                            "subcategory":[
+                                {
+                                    "name": "Crossovers"
+                                },
+                                {
+                                    "name": "Effects Processors"
+                                },
+                                {
+                                    "name": "Equalizers"
+                                },
+                                {
+                                    "name": "Microphone Preamps"
+                                },
+                                {
+                                    "name": "Noise Gates & Compressors"
+                                },
+                                {
+                                    "name": "Phono Preamps"
+                                },
+                                {
+                                    "name": "Public Address Management Systems"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Speakers",
+                            "subcategory":[
+                                {
+                                    "name": "Computer Speakers"
+                                },
+                                {
+                                    "name": "Studio Monitors"
+                                },
+                                {
+                                    "name": "Subwoofers"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Audio Players & Recorders",
+                    "subcategory":[
+                        {
+                            "name": "Boomboxes"
+                        },
+                        {
+                            "name": "CD Players & Recorders"
+                        },
+                        {
+                            "name": "Cassette Players & Recorders"
+                        },
+                        {
+                            "name": "Home Theater Systems"
+                        },
+                        {
+                            "name": "Jukeboxes"
+                        },
+                        {
+                            "name": "Karaoke Systems"
+                        },
+                        {
+                            "name": "MP3 Players"
+                        },
+                        {
+                            "name": "MiniDisc Players & Recorders"
+                        },
+                        {
+                            "name": "Multitrack Recorders"
+                        },
+                        {
+                            "name": "Radios",
+                            "subcategory":[ 
+                                {
+                                    "name": "Internet Radios"
+                                },
+                                {
+                                    "name": "Satellite Radios"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Stereo Systems"
+                        },
+                        {
+                            "name": "Turntables & Record Players",
+                            "subcategory":[
+                                {
+                                    "name": "DJ Turntables"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Voice Recorders"
+                        }
+                    ]
+                },
+                {
+                    "name": "DJ & Specialty Audio",
+                    "subcategory":[
+                        {
+                            "name": "DJ CD Players"
+                        },
+                        {
+                            "name": "DJ Equipment Accessories"
+                        },
+                        {
+                            "name": "DJ Systems"
+                        }
+                    ]
+                },
+                {
+                    "name": "Public Address Systems"
+                },
+                {
+                    "name": "Stage Equipment",
+                    "subcategory":[
+                        {
+                            "name": "Wireless Transmitters"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Circuit Components",
+            "subcategory": [
+                {
+                    "name": "Circuit Decoders & Encoders"
+                },
+                {
+                    "name": "Circuit Prototyping",
+                    "subcategory":[
+                        {
+                            "name": "Breadboards"
+                        }
+                    ]
+                },
+                {
+                    "name": "Electronic Filters"
+                },
+                {
+                    "name": "Optoelectronics",
+                    "subcategory":[
+                        {
+                            "name": "Laser Diodes"
+                        }
+                    ]
+                },
+                {
+                    "name": "Passive Circuit Components",
+                    "subcategory":[
+                        {
+                            "name": "Capacitors"
+                        },
+                        {
+                            "name": "Electronic Oscillators"
+                        },
+                        {
+                            "name": "Inductors"
+                        },
+                        {
+                            "name": "Resistors",
+                            "subcategory":[
+                                {
+                                    "name": "Potentiometers"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Printed Circuit Boards",
+                    "subcategory":[
+                        {
+                            "name": "Development Boards"
+                        }
+                    ]
+                },
+                {
+                    "name": "Semiconductors",
+                    "subcategory":[
+                        {
+                            "name": "Diodes"
+                        },
+                        {
+                            "name": "Integrated Circuits & Chips",
+                            "subcategory":[
+                                {
+                                    "name": "Op Amps"
+                                },
+                                {
+                                    "name": "Voltage Regulator ICs"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Microcontrollers"
+                        },
+                        {
+                            "name": "Transistors"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Communications",
+            "subcategory": [
+                {
+                    "name": "Answering Machines",
+                    "subcategory":[
+                        {
+                            "name": "On Hold Systems"
+                        }
+                    ]
+                },
+                {
+                    "name": "Caller IDs"
+                },
+                {
+                    "name": "Communication Radio Accessories"
+                },
+                {
+                    "name": "Communication Radios",
+                    "subcategory":[
+                        {
+                            "name": "CB Radios"
+                        },
+                        {
+                            "name": "Radio Scanners"
+                        },
+                        {
+                            "name": "Two-Way Radios"
+                        }
+                    ]
+                },
+                {
+                    "name": "Headsets"
+                },
+                {
+                    "name": "Intercom Accessories"
+                },
+                {
+                    "name": "Intercoms"
+                },
+                {
+                    "name": "Pagers"
+                },
+                {
+                    "name": "Telephony",
+                    "subcategory":[
+                        {
+                            "name": "Conference Phones"
+                        },
+                        {
+                            "name": "Corded Phones"
+                        },
+                        {
+                            "name": "Cordless Phones"
+                        },
+                        {
+                            "name": "Mobile Phone Accessories",
+                            "subcategory":[ 
+                                {
+                                    "name": "Mobile Phone Cases"
+                                },
+                                {
+                                    "name": "Mobile Phone Charms & Straps"
+                                },
+                                {
+                                    "name": "Mobile Phone Replacement Parts",
+                                    "subcategory": [
+                                        {
+                                            "name": "Mobile Phone Digitizers"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Mobile Phone SIM Cards"
+                                },
+                                {
+                                    "name": "Mobile Phone Stands"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Mobile Phones",
+                            "subcategory":[
+                                {
+                                    "name": "Feature Phones"
+                                },
+                                {
+                                    "name": "Smartphones"
+                                },
+                                {
+                                    "name": "Watch Phones"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Satellite Phones"
+                        },
+                        {
+                            "name": "Telephone Accessories",
+                            "subcategory":[
+                                {
+                                    "name": "Phone Cards"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Video Conferencing"
+                }
+            ]
+        },
+        {
+            "name": "Components",
+            "subcategory": [
+                {
+                    "name": "Accelerometers"
+                },
+                {
+                    "name": "Automation Control Components",
+                    "subcategory":[
+                        {
+                            "name": "Programmable Logic Controllers"
+                        },
+                        {
+                            "name": "Variable Frequency & Adjustable Speed Drives"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectors",
+                    "subcategory":[
+                        {
+                            "name": "Keystone Jacks"
+                        },
+                        {
+                            "name": "RCA Jacks"
+                        }
+                    ]
+                },
+                {
+                    "name": "Converters",
+                    "subcategory":[
+                        {
+                            "name": "Scan Converters"
+                        }
+                    ]
+                },
+                {
+                    "name": "Modulators",
+                    "subcategory":[
+                        {
+                            "name": "RF Modulators"
+                        }
+                    ]
+                },
+                {
+                    "name": "Splitters",
+                    "subcategory":[
+                        {
+                            "name": "RF Splitters"
+                        },
+                        {
+                            "name": "UHF Splitters"
+                        }
+                    ]
+                },
+                {
+                    "name": "Transformers",
+                    "subcategory":[
+                        {
+                            "name": "Baluns"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Computers",
+            "subcategory": [
+                {
+                    "name": "Barebone Computers"
+                },
+                {
+                    "name": "Computer Accessories",
+                    "subcategory":[
+                        {
+                            "name": "Computer Risers & Stands"
+                        },
+                        {
+                            "name": "Handheld Device Accessories",
+                            "subcategory":[
+                                {
+                                    "name": "E-Book Reader Accessories",
+                                    "subcategory":[
+                                        {
+                                            "name": "E-Book Reader Cases"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "PDA Accessories",
+                                    "subcategory":[
+                                        {
+                                            "name": "PDA Cases"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Keyboard & Mouse Wrist Rests"
+                        },
+                        {
+                            "name": "Keyboard Trays & Platforms"
+                        },
+                        {
+                            "name": "Laptop Accessories",
+                            "subcategory":[
+                                {
+                                    "name": "Laptop Docking Stations"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Mouse Pads"
+                        },
+                        {
+                            "name": "Stylus Pen Nibs & Refills"
+                        },
+                        {
+                            "name": "Stylus Pens"
+                        },
+                        {
+                            "name": "Tablet Computer Accessories",
+                            "subcategory":[
+                                {
+                                    "name": "Tablet Computer Replacement Parts",
+                                    "subcategory":[
+                                        {
+                                            "name" :"Tablet Computer Digitizers"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Tablet Computer Stands"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Computer Components",
+                    "subcategory":[
+                        {
+                            "name": "Blade Server Enclosures"
+                        },
+                        {
+                            "name": "Computer Cases"
+                        },
+                        {
+                            "name": "Computer Power Supplies"
+                        },
+                        {
+                            "name": "Computer Processors"
+                        },
+                        {
+                            "name": "Computer Racks & Mounts"
+                        },
+                        {
+                            "name": "Computer Starter Kits"
+                        },
+                        {
+                            "name": "Computer System Cooling"
+                        },
+                        {
+                            "name": "I/O Cards & Adapters",
+                            "subcategory":[
+                                {
+                                    "name": "Audio Cards & Adapters"
+                                },
+                                {
+                                    "name": "FireWire Cards"
+                                },
+                                {
+                                    "name": "Parallel Cards & Adapters"
+                                },
+                                {
+                                    "name": "Serial Cards & Adapters"
+                                },
+                                {
+                                    "name": "TV Tuner Cards & Adapters"
+                                },
+                                {
+                                    "name": "USB Cards"
+                                },
+                                {
+                                    "name": "Video Cards & Adapters"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Input Device Accessories",
+                            "subcategory":[
+                                {
+                                    "name": "Barcode Scanner Stands"
+                                },
+                                {
+                                    "name": "Game Controller Accessories",
+                                    "subcategory":[
+                                        {
+                                            "name": "Game Controller Thumbsticks & Buttons"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Graphics Tablet Accessories"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Input Devices",
+                            "subcategory":[
+                                {
+                                    "name": "Barcode Scanners"
+                                },
+                                {
+                                    "name": "Computer Keyboards"
+                                },
+                                {
+                                    "name": "Digital Note Taking Pens"
+                                },
+                                {
+                                    "name": "Fingerprint Readers"
+                                },
+                                {
+                                    "name": "Game Controllers"
+                                },
+                                {
+                                    "name": "Graphics Tablets"
+                                },
+                                {
+                                    "name": "KVM Switches"
+                                },
+                                {
+                                    "name": "Keyboard & Mouse Sets"
+                                },
+                                {
+                                    "name": "Memory Card Readers"
+                                },
+                                {
+                                    "name": "Mice & Trackballs"
+                                },
+                                {
+                                    "name": "Numeric Keypads"
+                                },
+                                {
+                                    "name": "Smart Card Readers"
+                                },
+                                {
+                                    "name": "Touchpads"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Laptop Parts",
+                            "subcategory":[
+                                {
+                                    "name": "Laptop Hinges"
+                                },
+                                {
+                                    "name": "Laptop Replacement Cables"
+                                },
+                                {
+                                    "name": "Laptop Replacement Keyboards"
+                                },
+                                {
+                                    "name": "Laptop Replacement Screens"
+                                },
+                                {
+                                    "name": "Laptop Shells"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Motherboards"
+                        },
+                        {
+                            "name": "Output Devices"
+                        },
+                        {
+                            "name": "Storage Devices",
+                            "subcategory":[
+                                {
+                                    "name": "Disk Arrays"
+                                },
+                                {
+                                    "name": "Disk Duplicators",
+                                    "subcategory":[
+                                        {
+                                            "name": "CD/DVD Duplicators"
+                                        },
+                                        {
+                                            "name": "Hard Drive Duplicators"
+                                        },
+                                        {
+                                            "name": "USB Drive Duplicators"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Floppy Drives"
+                                },
+                                {
+                                    "name": "Hard Drives",
+                                    "subcategory":[
+                                        {
+                                            "name": "Solid State Drives"
+                                        },
+                                        {
+                                            "name": "XBox 360 Hard Drives"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Network Storage Systems",
+                                    "subcategory":[
+                                        {
+                                            "name": "Network Storage Servers"
+                                        },
+                                        {
+                                            "name": "Storage Area Networks"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Optical Drives",
+                                    "subcategory":[
+                                        {
+                                            "name": "CD Drives"
+                                        },
+                                        {
+                                            "name": "DVD Drives"
+                                        },
+                                        {
+                                            "name": "MO Drives"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Storage Drive Accessories",
+                                    "subcategory":[
+                                        {
+                                            "name": "Hard Drive Caddies"
+                                        },
+                                        {
+                                            "name": "Hard Drive Carrying Cases"
+                                        },
+                                        {
+                                            "name": "Hard Drive Docks"
+                                        },
+                                        {
+                                            "name": "Hard Drive Enclosures"
+                                        },
+                                        {
+                                            "name": "Hard Drive Mounts"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Tape Drives"
+                                },
+                                {
+                                    "name": "USB Flash Drives"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "USB & FireWire Hubs"
+                        }
+                    ]
+                },
+                {
+                    "name": "Computer Servers"
+                },
+                {
+                    "name": "Desktop Computers"
+                },
+                {
+                    "name": "Handheld Devices",
+                    "subcategory": [
+                        {
+                            "name": "Data Collection Terminals"
+                        },
+                        {
+                            "name": "E-Book Readers"
+                        },
+                        {
+                            "name": "PDAs"
+                        }
+                    ]
+                },
+                {
+                    "name": "Interactive Kiosks"
+                },
+                {
+                    "name": "Laptops",
+                    "subcategory":[
+                        {
+                            "name": "Netbooks"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tablet Computers"
+                }
+            ]
+        },
+        {
+            "name": "Electrical Motors"
+        },
+        {
+            "name": "Electronics Accessories",
+            "subcategory": [
+                {
+                    "name": "Adapters",
+                    "subcategory": [
+                        {
+                            "name": "Audio & Video Adapters"
+                        },
+                        {
+                            "name": "Memory Adapters"
+                        },
+                        {
+                            "name": "Storage Adapters"
+                        },
+                        {
+                            "name": "USB Adapters"
+                        }
+                    ]
+                },
+                {
+                    "name": "Antenna Accessories",
+                    "subcategory":[
+                        {
+                            "name": "Antenna Mounts & Brackets"
+                        },
+                        {
+                            "name": "Antenna Rotators"
+                        },
+                        {
+                            "name": "Satellite LNBs"
+                        }
+                    ]
+                },
+                {
+                    "name": "Antennas",
+                    "subcategory":[
+                        {
+                            "name": "Communication Antennas"
+                        },
+                        {
+                            "name": "Radio Antennas"
+                        },
+                        {
+                            "name": "TV Antennas"
+                        }
+                    ]
+                },
+                {
+                    "name": "Blank Media",
+                    "subcategory":[
+                        {
+                            "name": "Blank Audio Tapes",
+                            "subcategory":[ 
+                                {
+                                    "name":"Micro Cassettes"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Blank Blu-ray Discs"
+                        },
+                        {
+                            "name": "Blank CDs"
+                        },
+                        {
+                            "name": "Blank DVDs"
+                        },
+                        {
+                            "name": "Blank Video Tapes"
+                        },
+                        {
+                            "name": "Computer Disks",
+                            "subcategory":[
+                                {
+                                    "name":"Floppy Disks"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Computer Tapes"
+                        },
+                        {
+                            "name": "MiniDiscs"
+                        }
+                    ]
+                },
+                {
+                    "name": "Cable Management",
+                    "subcategory":[
+                        {
+                            "name": "Cable Clips"
+                        },
+                        {
+                            "name": "Cable Trays"
+                        },
+                        {
+                            "name": "Patch Panels"
+                        },
+                        {
+                            "name": "Wire & Cable Sleeves"
+                        },
+                        {
+                            "name": "Wire & Cable Ties"
+                        }
+                    ]
+                },
+                {
+                    "name": "Cables",
+                    "subcategory":[
+                        {
+                            "name": "Audio & Video Cables",
+                            "subcategory":[
+                                {
+                                    "name": "DVI Cables"
+                                },
+                                {
+                                    "name": "HDMI Cables"
+                                },
+                                {
+                                    "name": "SCART Cables"
+                                },
+                                {
+                                    "name": "Speaker Cables"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Coaxial Cables"
+                        },
+                        {
+                            "name": "Data Transfer Cables",
+                            "subcategory":[
+                                {
+                                    "name": "FireWire Cables"
+                                },
+                                {
+                                    "name": "USB Cables"
+                                },
+                                {
+                                    "name": "iOS Cables"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "KVM Cables"
+                        },
+                        {
+                            "name": "Network Cables",
+                            "subcategory":[
+                                {
+                                    "name": "Ethernet Cables"
+                                },
+                                {
+                                    "name": "Serial Cables"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "RCA Cables"
+                        },
+                        {
+                            "name": "Storage Cables",
+                            "subcategory":[
+                                {
+                                    "name": "IDE Cables"
+                                },
+                                {
+                                    "name": "SAS Cables"
+                                },
+                                {
+                                    "name": "SATA Cables"
+                                },
+                                {
+                                    "name": "SCSI Cables"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "System & Power Cables"
+                        },
+                        {
+                            "name": "Telephone Cables"
+                        }
+                    ]
+                },
+                {
+                    "name": "Electronics Cleaners",
+                    "subcategory":[
+                        {
+                            "name": "Audio & Video Cleaners"
+                        },
+                        {
+                            "name": "Camera Cleaners"
+                        },
+                        {
+                            "name": "Screen Cleaners"
+                        }
+                    ]
+                },
+                {
+                    "name": "Electronics Films & Shields",
+                    "subcategory":[
+                        {
+                            "name": "Electronics Stickers & Decals",
+                            "subcategory":[
+                                {
+                                    "name": "Computer Keyboard Stickers"
+                                },
+                                {
+                                    "name": "Game Console Stickers & Decals"
+                                },
+                                {
+                                    "name": "Laptop Stickers & Decals"
+                                },
+                                {
+                                    "name": "MP3 Player Stickers & Decals"
+                                },
+                                {
+                                    "name": "Mobile Phone Stickers & Decals"
+                                },
+                                {
+                                    "name": "Tablet Computer Stickers & Decals"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Keyboard Protectors"
+                        },
+                        {
+                            "name": "Privacy Filters"
+                        },
+                        {
+                            "name": "Screen Protectors"
+                        }
+                    ]
+                },
+                {
+                    "name": "Memory",
+                    "subcategory":[
+                        {
+                            "name": "Cache Memory"
+                        },
+                        {
+                            "name": "Flash Memory",
+                            "subcategory":[
+                                {
+                                    "name":"Flash Memory Cards"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "RAM"
+                        },
+                        {
+                            "name": "ROM"
+                        },
+                        {
+                            "name": "Video Memory"
+                        }
+                    ]
+                },
+                {
+                    "name": "Memory Accessories",
+                    "subcategory":[
+                        {
+                            "name": "Memory Cases"
+                        }
+                    ]
+                },
+                {
+                    "name": "Power",
+                    "subcategory":[
+                        {
+                            "name": "Batteries",
+                            "subcategory":[
+                                {
+                                    "name": "Camera Batteries"
+                                },
+                                {
+                                    "name": "Cordless Phone Batteries"
+                                },
+                                {
+                                    "name": "E-Book Reader Batteries"
+                                },
+                                {
+                                    "name": "General Purpose Batteries"
+                                },
+                                {
+                                    "name": "Laptop Batteries"
+                                },
+                                {
+                                    "name": "Mobile Phone Batteries"
+                                },
+                                {
+                                    "name": "PDA Batteries"
+                                },
+                                {
+                                    "name": "Tablet Computer Batteries"
+                                },
+                                {
+                                    "name": "UPS Batteries"
+                                },
+                                {
+                                    "name": "Video Camera Batteries"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Battery Accessories",
+                            "subcategory":[
+                                {
+                                    "name": "Camera Battery Chargers"
+                                },
+                                {
+                                    "name": "General Purpose Battery Chargers"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chargers",
+                            "subcategory":[
+                                {
+                                    "name": "E-Book Reader Chargers"
+                                },
+                                {
+                                    "name": "MP3 Player Chargers"
+                                },
+                                {
+                                    "name": "Mobile Phone Chargers"
+                                },
+                                {
+                                    "name": "PDA Chargers"
+                                },
+                                {
+                                    "name": "Solar Chargers"
+                                },
+                                {
+                                    "name": "Tablet Computer Chargers"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Fuel Cells"
+                        },
+                        {
+                            "name": "Power Adapter Accessories"
+                        },
+                        {
+                            "name": "Power Adapters",
+                            "subcategory":[
+                                {
+                                    "name": "Laptop Power Adapters"
+                                },
+                                {
+                                    "name": "Power Converters"
+                                },
+                                {
+                                    "name": "Power Inverters"
+                                },
+                                {
+                                    "name": "Travel Adapters"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power Conditioners"
+                        },
+                        {
+                            "name": "Power Control Units"
+                        },
+                        {
+                            "name": "Power Enclosures"
+                        },
+                        {
+                            "name": "Power Injectors & Splitters"
+                        },
+                        {
+                            "name": "Power Strips & Surge Suppressors"
+                        },
+                        {
+                            "name": "Surge Protection Devices"
+                        },
+                        {
+                            "name": "UPS"
+                        },
+                        {
+                            "name": "UPS Accessories"
+                        },
+                        {
+                            "name": "Voltage Converters"
+                        }
+                    ]
+                },
+                {
+                    "name": "Remote Controls"
+                },
+                {
+                    "name": "Signal Boosters"
+                }
+            ]
+        },
+        {
+            "name": "GPS",
+            "subcategory": [
+                {
+                    "name": "Automotive GPS"
+                },
+                {
+                    "name": "Aviation GPS"
+                },
+                {
+                    "name": "Sport GPS"
+                }
+            ]
+        },
+        {
+            "name": "GPS Accessories",
+            "subcategory":[
+                {
+                    "name": "GPS Cases"
+                },
+                {
+                    "name": "GPS Mounts"
+                }
+            ]
+        },
+        {
+            "name": "GPS Trackers"
+        },
+        {
+            "name": "Marine Electronics",
+            "subcategory":[
+                {
+                    "name": "Fish Finders"
+                },
+                {
+                    "name": "Marine Chartplotters & GPS"
+                },
+                {
+                    "name": "Marine Radar"
+                },
+                {
+                    "name": "Marine Radios"
+                }
+            ]
+        },
+        {
+            "name": "Networking",
+            "subcategory":[
+                {
+                    "name": "Bridges & Routers",
+                    "subcategory":[
+                        {
+                            "name": "Network Bridges",
+                            "subcategory":[
+                                {
+                                    "name": "Wireless Bridges"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "VoIP Gateways & Routers"
+                        },
+                        {
+                            "name": "Wireless Access Points"
+                        },
+                        {
+                            "name": "Wireless Routers"
+                        }
+                    ]
+                },
+                {
+                    "name": "Concentrators & Multiplexers"
+                },
+                {
+                    "name": "Hubs & Switches"
+                },
+                {
+                    "name": "Modem Accessories"
+                },
+                {
+                    "name": "Modems"
+                },
+                {
+                    "name": "Network Cards & Adapters",
+                    "subcategory":[
+                        {
+                            "name": "XBox 360 Network Cards"
+                        }
+                    ]
+                },
+                {
+                    "name": "Network Security & Firewall Devices"
+                },
+                {
+                    "name": "Power Line Network Adapters"
+                },
+                {
+                    "name": "Print Servers"
+                },
+                {
+                    "name": "Repeaters & Transceivers"
+                }
+            ]
+        },
+        {
+            "name": "Plug & Play TV Games"
+        },
+        {
+            "name": "Print. Copy. Scan & Fax",
+            "subcategory":[
+                {
+                    "name": "Fax Machines"
+                },
+                {
+                    "name": "Printers & Copiers",
+                    "subcategory":[
+                        {
+                            "name": "Copiers"
+                        },
+                        {
+                            "name": "Printers",
+                            "subcategory":[
+                                {
+                                    "name": "Dot Matrix Printers"
+                                },
+                                {
+                                    "name": "Inkjet Printers"
+                                },
+                                {
+                                    "name": "Laser Printers"
+                                },
+                                {
+                                    "name": "Photo Printers"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Scanners"
+                }
+            ]
+        },
+        {
+            "name": "Print. Copy. Scan & Fax Accessories",
+            "subcategory":[
+                {
+                    "name": "Copier Accessories"
+                },
+                {
+                    "name": "Printer Accessories",
+                    "subcategory":[
+                        {
+                            "name": "Printer Consumables",
+                            "subcategory":[
+                                {
+                                    "name": "Printer Filters"
+                                },
+                                {
+                                    "name": "Printer Ribbons"
+                                },
+                                {
+                                    "name": "Printheads"
+                                },
+                                {
+                                    "name": "Toner & Inkjet Cartridge Refills"
+                                },
+                                {
+                                    "name": "Toner & Inkjet Cartridges",
+                                    "subcategory":[
+                                        {
+                                            "name": "Oil Rollers"
+                                        },
+                                        {
+                                            "name": "Printer Drum Kits"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Printer Duplexers"
+                        },
+                        {
+                            "name": "Printer Maintenance Kits"
+                        },
+                        {
+                            "name": "Printer Memory"
+                        },
+                        {
+                            "name": "Printer Stands"
+                        },
+                        {
+                            "name": "Printer Trays"
+                        }
+                    ]
+                },
+                {
+                    "name": "Scanner Accessories"
+                }
+            ]
+        },
+        {
+            "name": "Toll Collection Devices"
+        },
+        {
+            "name": "Video",
+            "subcategory":[
+                {
+                    "name": "Computer Monitors"
+                },
+                {
+                    "name": "Projectors",
+                    "subcategory":[
+                        {
+                            "name": "Multimedia Projectors"
+                        },
+                        {
+                            "name": "Overhead Projectors"
+                        },
+                        {
+                            "name": "Slide Projectors"
+                        }
+                    ]
+                },
+                {
+                    "name": "Satellite & Cable TV",
+                    "subcategory":[
+                        {
+                            "name": "Cable TV Receivers"
+                        },
+                        {
+                            "name": "Satellite Receivers"
+                        }
+                    ]
+                },
+                {
+                    "name": "Televisions",
+                    "subcategory":[
+                        {
+                            "name": "CRT Televisions"
+                        },
+                        {
+                            "name": "Flat Panel Televisions"
+                        },
+                        {
+                            "name": "Portable Televisions"
+                        },
+                        {
+                            "name": "Projection Televisions"
+                        }
+                    ]
+                },
+                {
+                    "name": "Video Accessories",
+                    "subcategory":[
+                        {
+                            "name": "3D Glasses"
+                        },
+                        {
+                            "name": "Computer Monitor Accessories",
+                            "subcategory":[
+                                {
+                                    "name": "Color Calibrators"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Projector Accessories",
+                            "subcategory":[
+                                {
+                                    "name": "Projection & Tripod Skirts"
+                                },
+                                {
+                                    "name": "Projection Screen Stands"
+                                },
+                                {
+                                    "name": "Projection Screens"
+                                },
+                                {
+                                    "name": "Projector Mounts"
+                                },
+                                {
+                                    "name": "Projector Replacement Lamps"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rewinders"
+                        },
+                        {
+                            "name": "Television Accessories",
+                            "subcategory":[
+                                {
+                                    "name": "TV & Monitor Mounts"
+                                },
+                                {
+                                    "name": "TV Replacement Lamps"
+                                },
+                                {
+                                    "name": "TV Scan Converters"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Video Editing Hardware & Production Equipment"
+                },
+                {
+                    "name": "Video Multiplexers"
+                },
+                {
+                    "name": "Video Players & Recorders",
+                    "subcategory":[
+                        {
+                            "name": "DVD & Blu-ray Players"
+                        },
+                        {
+                            "name": "DVD Recorders",
+                            "subcategory":[
+                                {
+                                    "name": "Blu-Ray Recorders"
+                                },
+                                {
+                                    "name": "HD-DVD Recorders"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Digital Video Recorders"
+                        },
+                        {
+                            "name": "Home Media Players"
+                        },
+                        {
+                            "name": "VCRs"
+                        }
+                    ]
+                },
+                {
+                    "name": "Video Servers"
+                },
+                {
+                    "name": "Video Transmitters",
+                    "subcategory":[
+                        {
+                            "name":"Video Senders"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Video Game Console Accessories",
+            "subcategory":[
+                {
+                    "name": "Home Game Console Accessories",
+                    "subcategory":[
+                        {
+                            "name": "All PlayStation Accessories",
+                            "subcategory": [
+                                {
+                                    "name": "PlayStation (original) Accessories"
+                                },
+                                {
+                                    "name": "PlayStation 2 Accessories"
+                                },
+                                {
+                                    "name": "PlayStation 3 Accessories"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "All XBox Accessories",
+                            "subcategory":[
+                                {
+                                    "name": "XBox (original) Accessories"
+                                },
+                                {
+                                    "name": "XBox 360 Accessories"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dreamcast Accessories"
+                        },
+                        {
+                            "name": "GameCube Accessories"
+                        },
+                        {
+                            "name": "Jaguar Accessories"
+                        },
+                        {
+                            "name": "Neo Geo Accessories"
+                        },
+                        {
+                            "name": "Nintendo 64 Accessories"
+                        },
+                        {
+                            "name": "Nintendo Entertainment System Accessories"
+                        },
+                        {
+                            "name": "Sega Genesis Accessories"
+                        },
+                        {
+                            "name": "Sega Master System Accessories"
+                        },
+                        {
+                            "name": "Super Nintendo Accessories"
+                        },
+                        {
+                            "name": "Turbografx 16 Accessories"
+                        },
+                        {
+                            "name": "Wii Accessories"
+                        },
+                        {
+                            "name": "Wii U Accessories"
+                        }
+                    ]
+                },
+                {
+                    "name": "Portable Game Console Accessories",
+                    "subcategory":[
+                        {
+                            "name": "All Game Boy Accessories",
+                            "subcategory":[
+                                {
+                                    "name": "Game Boy Accessories"
+                                },
+                                {
+                                    "name": "Game Boy Advance Accessories"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Atari Lynx Accessories"
+                        },
+                        {
+                            "name": "Game Gear Accessories"
+                        },
+                        {
+                            "name": "N-Gage Accessories"
+                        },
+                        {
+                            "name": "Neo Geo Pocket Accessories"
+                        },
+                        {
+                            "name": "Nintendo 3DS Accessories"
+                        },
+                        {
+                            "name": "Nintendo DS Accessories"
+                        },
+                        {
+                            "name": "PlayStation Portable Accessories"
+                        },
+                        {
+                            "name": "PlayStation Vita Accessories"
+                        },
+                        {
+                            "name": "WonderSwan Accessories"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Video Game Consoles",
+            "subcategory":[
+                {
+                    "name": "Home Game Consoles",
+                    "subcategory":[ 
+                        {
+                            "name": "Dreamcast Consoles"
+                        },
+                        {
+                            "name": "GameCube Consoles"
+                        },
+                        {
+                            "name": "Jaguar Consoles"
+                        },
+                        {
+                            "name": "Neo Geo Consoles"
+                        },
+                        {
+                            "name": "Nintendo 64 Consoles"
+                        },
+                        {
+                            "name": "Nintendo Entertainment System Consoles"
+                        },
+                        {
+                            "name": "PlayStation (original) Consoles"
+                        },
+                        {
+                            "name": "PlayStation 2 Consoles"
+                        },
+                        {
+                            "name": "PlayStation 3 Consoles"
+                        },
+                        {
+                            "name": "Sega Genesis Consoles"
+                        },
+                        {
+                            "name": "Sega Master System Consoles"
+                        },
+                        {
+                            "name": "Super Nintendo Consoles"
+                        },
+                        {
+                            "name": "Turbografx 16 Consoles"
+                        },
+                        {
+                            "name": "Wii Consoles"
+                        },
+                        {
+                            "name": "Wii U Consoles"
+                        },
+                        {
+                            "name": "XBox (original) Consoles"
+                        },
+                        {
+                            "name": "XBox 360 Consoles"
+                        }
+                    ]
+                },
+                {
+                    "name": "Portable Game Consoles",
+                    "subcategory":[
+                        {
+                            "name": "All Game Boy Consoles",
+                            "subcategory":[
+                                {
+                                    "name": "Game Boy Advance Consoles"
+                                },
+                                {
+                                    "name": "Game Boy Consoles"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Atari Lynx Consoles"
+                        },
+                        {
+                            "name": "Game Gear Consoles"
+                        },
+                        {
+                            "name": "LeapFrog Consoles"
+                        },
+                        {
+                            "name": "N-Gage Consoles"
+                        },
+                        {
+                            "name": "Neo Geo Pocket Consoles"
+                        },
+                        {
+                            "name": "Nintendo 3DS"
+                        },
+                        {
+                            "name": "Nintendo DS Consoles"
+                        },
+                        {
+                            "name": "PlayStation Portable Consoles"
+                        },
+                        {
+                            "name": "PlayStation Vita"
+                        },
+                        {
+                            "name": "Retrogen"
+                        },
+                        {
+                            "name": "WonderSwan"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

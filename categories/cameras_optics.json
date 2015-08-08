@@ -1,0 +1,359 @@
+{
+    "name": "Cameras & Optics",
+    "subcategory":[
+        {
+            "name": "Camera & Optic Accessories",
+            "subcategory": [
+                {
+                    "name": "Camera & Optic Lens Accessories",
+                    "subcategory": [
+                        {
+                            "name": "Lens & Filter Adapters"
+                        },
+                        {
+                            "name": "Lens Bags"
+                        },
+                        {
+                            "name": "Lens Caps"
+                        },
+                        {
+                            "name": "Lens Converters"
+                        },
+                        {
+                            "name": "Lens Filters",
+                            "subcategory": [
+                                {
+                                    "name": "Close-Up Filters"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lens Hoods"
+                        }
+                    ]
+                },
+                {
+                    "name": "Camera & Optic Lenses",
+                    "subcategory": [
+                        {
+                            "name": "Camera Lenses"
+                        },
+                        {
+                            "name": "Surveillance Camera Lenses"
+                        },
+                        {
+                            "name": "Video Camera Lenses"
+                        }
+                    ]
+                },
+                {
+                    "name": "Camera Accessories",
+                    "subcategory": [
+                        {
+                            "name": "Camera Bags",
+                            "subcategory": [
+                                {
+                                    "name": "Still Camera Bags"
+                                },
+                                {
+                                    "name": "Video Camera Bags"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Camera Film"
+                        },
+                        {
+                            "name": "Camera Flash Accessories"
+                        },
+                        {
+                            "name": "Camera Flashes"
+                        },
+                        {
+                            "name": "Camera Handles"
+                        },
+                        {
+                            "name": "Camera Mounts"
+                        },
+                        {
+                            "name": "Camera Remote Controls"
+                        },
+                        {
+                            "name": "Camera Straps"
+                        },
+                        {
+                            "name": "Flash Brackets"
+                        },
+                        {
+                            "name": "Surveillance Camera Accessories"
+                        },
+                        {
+                            "name": "Underwater Camera Housings",
+                            "subcategory": [
+                                {
+                                    "name": "Underwater Still Camera Housings"
+                                },
+                                {
+                                    "name": "Underwater Video Camera Housings"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Video Camera Lights"
+                        }
+                    ]
+                },
+                {
+                    "name": "Optic Accessories",
+                    "subcategory": [
+                        {
+                            "name": "Binocular & Monocular Accessories"
+                        },
+                        {
+                            "name": "Night Vision Optic Accessories"
+                        },
+                        {
+                            "name": "Optics Bags & Cases"
+                        },
+                        {
+                            "name": "Rangefinder Accessories"
+                        },
+                        {
+                            "name": "Spotting Scope Accessories",
+                            "subcategory": [
+                                {
+                                    "name": "Scope Eyepieces"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Telescope Accessories"
+                        },
+                        {
+                            "name": "Thermal Optic Accessories"
+                        },
+                        {
+                            "name": "Weapon Scope Accessories"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tripod & Monopod Accessories",
+                    "subcategory": [
+                        {
+                            "name": "Tripod & Monopod Cases"
+                        },
+                        {
+                            "name": "Tripod & Monopod Heads"
+                        },
+                        {
+                            "name": "Tripod Collars & Mounts"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tripods & Monopods"
+                }
+            ]
+        },
+        {
+            "name": "Cameras",
+            "subcategory": [
+                {
+                    "name": "Digital Cameras",
+                    "subcategory": [
+                        {
+                            "name": "Digital Point & Shoot Cameras"
+                        },
+                        {
+                            "name": "Digital SLRs"
+                        },
+                        {
+                            "name": "Mirrorless System Digital Cameras"
+                        }
+                    ]
+                },
+                {
+                    "name": "Disposable Cameras"
+                },
+                {
+                    "name": "Film Cameras",
+                    "subcategory": [
+                        {
+                            "name":"Instant Cameras"
+                        }
+                    ]
+                },
+                {
+                    "name": "Surveillance Cameras",
+                    "subcategory":[
+                        {
+                            "name": "Hidden Cameras"
+                        }
+                    ]
+                },
+                {
+                    "name": "Trail Cameras"
+                },
+                {
+                    "name": "Video Cameras"
+                },
+                {
+                    "name": "Webcams"
+                }
+            ]
+        },
+        {
+            "name": "Optics",
+            "subcategory": [
+                {
+                    "name": "Binoculars",
+                    "subcategory": [
+                        {
+                            "name": "Opera Glasses"
+                        }
+                    ]
+                },
+                {
+                    "name": "Monoculars"
+                },
+                {
+                    "name": "Rangefinders"
+                },
+                {
+                    "name": "Scopes",
+                    "subcategory": [
+                        {
+                            "name": "Spotting Scopes"
+                        },
+                        {
+                            "name": "Telescopes"
+                        },
+                        {
+                            "name": "Weapon Scopes & Sights"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Photography",
+            "subcategory": [
+                {
+                    "name": "Darkroom",
+                    "subcategory": [
+                        {
+                            "name": "Developing & Processing Equipment",
+                            "subcategory": [
+                                {
+                                    "name": "Copystands"
+                                },
+                                {
+                                    "name": "Darkroom Sinks"
+                                },
+                                {
+                                    "name": "Developing Tanks & Reels"
+                                },
+                                {
+                                    "name": "Print Trays. Washers & Dryers"
+                                },
+                                {
+                                    "name": "Retouching Equipment & Supplies"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Enlarging Equipment",
+                            "subcategory": [
+                                {
+                                    "name": "Darkroom Easels"
+                                },
+                                {
+                                    "name": "Darkroom Timers"
+                                },
+                                {
+                                    "name": "Focusing Aids"
+                                },
+                                {
+                                    "name": "Photographic Analyzers"
+                                },
+                                {
+                                    "name": "Photographic Enlargers"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Photographic Chemicals",
+                            "subcategory": [
+                                {
+                                    "name": "Photographic Color Kits"
+                                },
+                                {
+                                    "name": "Photographic Developer"
+                                },
+                                {
+                                    "name": "Photographic Fixers"
+                                },
+                                {
+                                    "name": "Photographic Toners"
+                                },
+                                {
+                                    "name": "Stop Baths"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Photographic Paper"
+                        },
+                        {
+                            "name": "Safelights"
+                        }
+                    ]
+                },
+                {
+                    "name": "Lighting & Studio",
+                    "subcategory": [
+                        {
+                            "name": "Backgrounds"
+                        },
+                        {
+                            "name": "Flash Diffusers",
+                            "subcategory": [
+                                {
+                                    "name": "Camera Flash Diffusers"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Flash Reflectors"
+                        },
+                        {
+                            "name": "Light Controls"
+                        },
+                        {
+                            "name": "Light Meter Accessories"
+                        },
+                        {
+                            "name": "Light Meters"
+                        },
+                        {
+                            "name": "Lighting Filters & Gels"
+                        },
+                        {
+                            "name": "Softboxes"
+                        },
+                        {
+                            "name": "Studio Lights & Flashes"
+                        },
+                        {
+                            "name": "Studio Mountings"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo Negative & Slide Storage"
+                }
+            ]
+        }
+    ]
+}

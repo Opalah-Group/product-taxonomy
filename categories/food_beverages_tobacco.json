@@ -1,0 +1,1711 @@
+{
+    "name": "Food. Beverages & Tobacco",
+    "subcategory":[
+        {
+            "name": "Beverages",
+            "subcategory":[
+                {
+                    "name": "Beer",
+                    "subcategory":[
+                        {
+                            "name":"Non-Alcoholic Beer"
+                        }
+                    ]
+                },
+                {
+                    "name": "Bitters"
+                },
+                {
+                    "name": "Buttermilk"
+                },
+                {
+                    "name": "Cocktail Mixes"
+                },
+                {
+                    "name": "Coffee",
+                    "subcategory":[
+                        {
+                            "name": "Bottled Coffee Drinks"
+                        },
+                        {
+                            "name": "Coffee Pods"
+                        },
+                        {
+                            "name": "Ground & Whole Bean Coffee"
+                        },
+                        {
+                            "name": "Instant Coffee"
+                        }
+                    ]
+                },
+                {
+                    "name": "Eggnog"
+                },
+                {
+                    "name": "Flavored Malt Beverages"
+                },
+                {
+                    "name": "Fruit Flavored Drinks"
+                },
+                {
+                    "name": "Hard Cider"
+                },
+                {
+                    "name": "Hot Chocolate"
+                },
+                {
+                    "name": "Juice"
+                },
+                {
+                    "name": "Liquor & Spirits",
+                    "subcategory":[
+                        {
+                            "name": "Brandy",
+                            "subcategory":[
+                                {
+                                    "name": "Cognac"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Gin"
+                        },
+                        {
+                            "name": "Liqueurs"
+                        },
+                        {
+                            "name": "Rum"
+                        },
+                        {
+                            "name": "Schnapps"
+                        },
+                        {
+                            "name": "Tequila"
+                        },
+                        {
+                            "name": "Vodka"
+                        },
+                        {
+                            "name": "Whiskey",
+                            "subcategory":[
+                                {
+                                    "name": "American Whiskey"
+                                },
+                                {
+                                    "name": "Irish Whiskey"
+                                },
+                                {
+                                    "name": "Scotch Whiskey"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Milk",
+                    "subcategory":[
+                        {
+                            "name":"Powdered Milk"
+                        }
+                    ]
+                },
+                {
+                    "name": "Non-Dairy Milk",
+                    "subcategory":[
+                        {
+                            "name": "Almond Milk"
+                        },
+                        {
+                            "name": "Coconut Milk"
+                        },
+                        {
+                            "name": "Hemp Milk"
+                        },
+                        {
+                            "name": "Oat Milk"
+                        },
+                        {
+                            "name": "Rice Milk"
+                        },
+                        {
+                            "name": "Soy Milk"
+                        }
+                    ]
+                },
+                {
+                    "name": "Powdered Beverage Mixes"
+                },
+                {
+                    "name": "Soda"
+                },
+                {
+                    "name": "Sports & Energy Drinks"
+                },
+                {
+                    "name": "Tea & Infusions",
+                    "subcategory":[
+                        {
+                            "name": "Bottled Tea Drinks"
+                        },
+                        {
+                            "name": "Powdered Tea"
+                        },
+                        {
+                            "name": "Tea Bags & Loose Tea Leaves"
+                        }
+                    ]
+                },
+                {
+                    "name": "Vinegar Drinks"
+                },
+                {
+                    "name": "Water",
+                    "subcategory":[
+                        {
+                            "name": "Bottled Water"
+                        },
+                        {
+                            "name": "Carbonated Water"
+                        },
+                        {
+                            "name": "Flavored Water"
+                        },
+                        {
+                            "name": "Tonic Water"
+                        }
+                    ]
+                },
+                {
+                    "name": "Wine",
+                    "subcategory":[
+                        {
+                            "name": "Blush Wine"
+                        },
+                        {
+                            "name": "Dessert Wine",
+                            "subcategory":[
+                                {
+                                    "name": "Port"
+                                },
+                                {
+                                    "name": "Sherry"
+                                },
+                                {
+                                    "name": "Vermouth"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Mead"
+                        },
+                        {
+                            "name": "Non-Alcoholic Wine"
+                        },
+                        {
+                            "name": "Red Wine"
+                        },
+                        {
+                            "name": "Rice Wine"
+                        },
+                        {
+                            "name": "Rosé Wine"
+                        },
+                        {
+                            "name": "Sangria"
+                        },
+                        {
+                            "name": "Sparkling Wine"
+                        },
+                        {
+                            "name": "White Wine"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Food Items",
+            "subcategory":[
+                {
+                    "name": "Bakery",
+                    "subcategory":[
+                        {
+                            "name": "Bagels"
+                        },
+                        {
+                            "name": "Bakery Assortments"
+                        },
+                        {
+                            "name": "Breads & Buns"
+                        },
+                        {
+                            "name": "Cakes & Dessert Bars"
+                        },
+                        {
+                            "name": "Coffee Cakes"
+                        },
+                        {
+                            "name": "Cookies"
+                        },
+                        {
+                            "name": "Cupcakes"
+                        },
+                        {
+                            "name": "Donuts"
+                        },
+                        {
+                            "name": "Fudge"
+                        },
+                        {
+                            "name": "Ice Cream Cones"
+                        },
+                        {
+                            "name": "Muffins"
+                        },
+                        {
+                            "name": "Pastries & Scones"
+                        },
+                        {
+                            "name": "Pies & Tarts"
+                        },
+                        {
+                            "name": "Taco Shells & Tostadas"
+                        },
+                        {
+                            "name": "Tortillas & Wraps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Candy & Gum",
+                    "subcategory":[
+                        {
+                            "name": "Candy & Chocolate",
+                            "subcategory":[
+                                {
+                                    "name": "Candy Bars & Pieces"
+                                },
+                                {
+                                    "name": "Candy Brittle"
+                                },
+                                {
+                                    "name": "Candy Canes"
+                                },
+                                {
+                                    "name": "Candy Corn"
+                                },
+                                {
+                                    "name": "Caramels"
+                                },
+                                {
+                                    "name": "Chocolate Assortments"
+                                },
+                                {
+                                    "name": "Chocolate Bars"
+                                },
+                                {
+                                    "name": "Chocolate Covered Fruit"
+                                },
+                                {
+                                    "name": "Chocolate Truffles"
+                                },
+                                {
+                                    "name": "Fruit Chews"
+                                },
+                                {
+                                    "name": "Gumdrops"
+                                },
+                                {
+                                    "name": "Gummy Candies"
+                                },
+                                {
+                                    "name": "Hard Candies"
+                                },
+                                {
+                                    "name": "Jelly Beans"
+                                },
+                                {
+                                    "name": "Licorice"
+                                },
+                                {
+                                    "name": "Lollipops & Suckers"
+                                },
+                                {
+                                    "name": "Marshmallow Candies"
+                                },
+                                {
+                                    "name": "Mints"
+                                },
+                                {
+                                    "name": "Nougat"
+                                },
+                                {
+                                    "name": "Peanut Butter Cups"
+                                },
+                                {
+                                    "name": "Peppermint Patties"
+                                },
+                                {
+                                    "name": "Taffy"
+                                },
+                                {
+                                    "name": "Toffee"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chewing Gum"
+                        }
+                    ]
+                },
+                {
+                    "name": "Condiments & Sauces",
+                    "subcategory":[
+                        {
+                            "name": "Barbecue Sauce"
+                        },
+                        {
+                            "name": "Chutney"
+                        },
+                        {
+                            "name": "Cocktail Sauce"
+                        },
+                        {
+                            "name": "Coffee Creamer"
+                        },
+                        {
+                            "name": "Curry Sauce"
+                        },
+                        {
+                            "name": "Dessert Toppings",
+                            "subcategory":[
+                                {
+                                    "name": "Fruit Toppings"
+                                },
+                                {
+                                    "name": "Ice Cream Syrup"
+                                },
+                                {
+                                    "name": "Whipped Topping"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Fish Sauce"
+                        },
+                        {
+                            "name": "Gravy"
+                        },
+                        {
+                            "name": "Honey"
+                        },
+                        {
+                            "name": "Horseradish Sauce"
+                        },
+                        {
+                            "name": "Hot Sauce"
+                        },
+                        {
+                            "name": "Ketchup"
+                        },
+                        {
+                            "name": "Marinade"
+                        },
+                        {
+                            "name": "Mayonnaise"
+                        },
+                        {
+                            "name": "Mustard"
+                        },
+                        {
+                            "name": "Olives & Capers"
+                        },
+                        {
+                            "name": "Pasta Sauce"
+                        },
+                        {
+                            "name": "Pickles & Relishes"
+                        },
+                        {
+                            "name": "Pizza Sauce"
+                        },
+                        {
+                            "name": "Salad Dressing"
+                        },
+                        {
+                            "name": "Satay Sauce"
+                        },
+                        {
+                            "name": "Soy Sauce"
+                        },
+                        {
+                            "name": "Steak Sauce"
+                        },
+                        {
+                            "name": "Syrup",
+                            "subcategory":[
+                                {
+                                    "name": "Agave Syrup"
+                                },
+                                {
+                                    "name": "Flavored Syrup"
+                                },
+                                {
+                                    "name": "Pancake & Maple Syrup"
+                                },
+                                {
+                                    "name": "Snow Cone Syrup"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tahini"
+                        },
+                        {
+                            "name": "Tartar Sauce"
+                        },
+                        {
+                            "name": "Vinegar"
+                        },
+                        {
+                            "name": "Worcestershire Sauce"
+                        }
+                    ]
+                },
+                {
+                    "name": "Cooking & Baking Ingredients",
+                    "subcategory":[
+                        {
+                            "name": "Artificial Sweeteners"
+                        },
+                        {
+                            "name": "Baking Chips"
+                        },
+                        {
+                            "name": "Baking Chocolate"
+                        },
+                        {
+                            "name": "Baking Extracts",
+                            "subcategory":[
+                                {
+                                    "name": "Almond Extract"
+                                },
+                                {
+                                    "name": "Vanilla Extract"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Baking Kits"
+                        },
+                        {
+                            "name": "Baking Mixes",
+                            "subcategory":[
+                                {
+                                    "name": "Bread & Muffin Mixes",
+                                    "subcategory":[
+                                        {
+                                            "name": "Bread Mixes"
+                                        },
+                                        {
+                                            "name": "Muffin Mixes"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Bread Pudding Mixes"
+                                },
+                                {
+                                    "name": "Cake & Brownie Mixes"
+                                },
+                                {
+                                    "name": "Cookie Mixes"
+                                },
+                                {
+                                    "name": "Pretzel Mixes"
+                                },
+                                {
+                                    "name": "Waffle & Pancake Mixes"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Baking Powder"
+                        },
+                        {
+                            "name": "Baking Soda"
+                        },
+                        {
+                            "name": "Batter & Coating Mixes"
+                        },
+                        {
+                            "name": "Bean Paste"
+                        },
+                        {
+                            "name": "Bread Crumbs"
+                        },
+                        {
+                            "name": "Condensed Milk"
+                        },
+                        {
+                            "name": "Cooking Oil",
+                            "subcategory":[
+                                {
+                                    "name": "Canola Oil"
+                                },
+                                {
+                                    "name": "Chili Oil"
+                                },
+                                {
+                                    "name": "Coconut Oil"
+                                },
+                                {
+                                    "name": "Cooking Spray"
+                                },
+                                {
+                                    "name": "Corn Oil"
+                                },
+                                {
+                                    "name": "Hemp Oil"
+                                },
+                                {
+                                    "name": "Olive Oil"
+                                },
+                                {
+                                    "name": "Peanut Oil"
+                                },
+                                {
+                                    "name": "Rice Oil"
+                                },
+                                {
+                                    "name": "Sesame Oil"
+                                },
+                                {
+                                    "name": "Soybean Oil"
+                                },
+                                {
+                                    "name": "Vegetable Oil"
+                                },
+                                {
+                                    "name": "Walnut Oil"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cooking Starch"
+                        },
+                        {
+                            "name": "Cooking Wine"
+                        },
+                        {
+                            "name": "Corn Syrup"
+                        },
+                        {
+                            "name": "Dough",
+                            "subcategory":[
+                                {
+                                    "name": "Bread & Pastry Dough",
+                                    "subcategory":[
+                                        {
+                                            "name" : "Pizza Dough"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Cookie & Brownie Dough"
+                                },
+                                {
+                                    "name": "Pie Crusts"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Edible Baking Decorations",
+                            "subcategory":[
+                                {
+                                    "name": "Colored Sugar"
+                                },
+                                {
+                                    "name": "Edible Baking Decoration Kits"
+                                },
+                                {
+                                    "name": "Sprinkles"
+                                },
+                                {
+                                    "name": "Sugar Pearls"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Evaporated Milk"
+                        },
+                        {
+                            "name": "Floss Sugar"
+                        },
+                        {
+                            "name": "Flour"
+                        },
+                        {
+                            "name": "Food Coloring"
+                        },
+                        {
+                            "name": "Frosting & Icing"
+                        },
+                        {
+                            "name": "Marshmallows"
+                        },
+                        {
+                            "name": "Molasses"
+                        },
+                        {
+                            "name": "Pie Fillings"
+                        },
+                        {
+                            "name": "Shortening & Lard"
+                        },
+                        {
+                            "name": "Shredded Coconut"
+                        },
+                        {
+                            "name": "Starter Cultures"
+                        },
+                        {
+                            "name": "Sugar"
+                        },
+                        {
+                            "name": "Tomato Paste"
+                        },
+                        {
+                            "name": "Unflavored Gelatin"
+                        },
+                        {
+                            "name": "Yeast"
+                        }
+                    ]
+                },
+                {
+                    "name": "Dairy Products",
+                    "subcategory":[
+                        {
+                            "name": "Butter & Margarine"
+                        },
+                        {
+                            "name": "Cheese"
+                        },
+                        {
+                            "name": "Cottage Cheese"
+                        },
+                        {
+                            "name": "Cream"
+                        },
+                        {
+                            "name": "Sour Cream"
+                        },
+                        {
+                            "name": "Whipped Cream"
+                        },
+                        {
+                            "name": "Yogurt"
+                        }
+                    ]
+                },
+                {
+                    "name": "Dips & Spreads",
+                    "subcategory":[
+                        {
+                            "name": "Apple Butter"
+                        },
+                        {
+                            "name": "Cheese Spread"
+                        },
+                        {
+                            "name": "Cream Cheese"
+                        },
+                        {
+                            "name": "Guacamole"
+                        },
+                        {
+                            "name": "Hummus"
+                        },
+                        {
+                            "name": "Jams & Jellies"
+                        },
+                        {
+                            "name": "Nut Butters",
+                            "subcategory":[
+                                {
+                                    "name": "Almond Butter"
+                                },
+                                {
+                                    "name": "Hazelnut Butter"
+                                },
+                                {
+                                    "name": "Peanut Butter"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Salsa"
+                        },
+                        {
+                            "name": "Tapenade"
+                        },
+                        {
+                            "name": "Vegetable Dip"
+                        }
+                    ]
+                },
+                {
+                    "name": "Food Gift Baskets"
+                },
+                {
+                    "name": "Frozen Desserts & Novelties",
+                    "subcategory":[
+                        {
+                            "name": "Frozen Yogurt"
+                        },
+                        {
+                            "name": "Ice Cream"
+                        },
+                        {
+                            "name": "Nondairy Frozen Desserts"
+                        },
+                        {
+                            "name": "Popsicles"
+                        },
+                        {
+                            "name": "Sherbet"
+                        },
+                        {
+                            "name": "Sorbet"
+                        },
+                        {
+                            "name": "Sundae Cones"
+                        }
+                    ]
+                },
+                {
+                    "name": "Fruits & Vegetables",
+                    "subcategory":[ 
+                        {
+                            "name": "Canned & Jarred Vegetables"
+                        },
+                        {
+                            "name": "Canned & Prepared Beans"
+                        },
+                        {
+                            "name": "Canned Fruits"
+                        },
+                        {
+                            "name": "Dried Fruits"
+                        },
+                        {
+                            "name": "Dried Vegetables"
+                        },
+                        {
+                            "name": "Dry Beans"
+                        },
+                        {
+                            "name": "Fresh & Frozen Fruits",
+                            "subcategory":[
+                                {
+                                    "name": "Apples"
+                                },
+                                {
+                                    "name": "Apricots"
+                                },
+                                {
+                                    "name": "Atemoyas"
+                                },
+                                {
+                                    "name": "Avocados"
+                                },
+                                {
+                                    "name": "Babacos"
+                                },
+                                {
+                                    "name": "Bananas"
+                                },
+                                {
+                                    "name": "Berries"
+                                },
+                                {
+                                    "name": "Breadfruit"
+                                },
+                                {
+                                    "name": "Cactus Pears"
+                                },
+                                {
+                                    "name": "Cherimoyas"
+                                },
+                                {
+                                    "name": "Cherries"
+                                },
+                                {
+                                    "name": "Coconuts"
+                                },
+                                {
+                                    "name": "Currants"
+                                },
+                                {
+                                    "name": "Dates"
+                                },
+                                {
+                                    "name": "Feijoas"
+                                },
+                                {
+                                    "name": "Figs"
+                                },
+                                {
+                                    "name": "Grapefruits"
+                                },
+                                {
+                                    "name": "Grapes"
+                                },
+                                {
+                                    "name": "Guavas"
+                                },
+                                {
+                                    "name": "Homli Fruits"
+                                },
+                                {
+                                    "name": "Kiwifruit"
+                                },
+                                {
+                                    "name": "Kumquats"
+                                },
+                                {
+                                    "name": "Lemons"
+                                },
+                                {
+                                    "name": "Limequats"
+                                },
+                                {
+                                    "name": "Limes"
+                                },
+                                {
+                                    "name": "Longan"
+                                },
+                                {
+                                    "name": "Loquats"
+                                },
+                                {
+                                    "name": "Lychees"
+                                },
+                                {
+                                    "name": "Madroño"
+                                },
+                                {
+                                    "name": "Mamey"
+                                },
+                                {
+                                    "name": "Mangoes"
+                                },
+                                {
+                                    "name": "Mangosteens"
+                                },
+                                {
+                                    "name": "Melons",
+                                    "subcategory":[
+                                        {
+                                            "name": "Bitter Melons"
+                                        },
+                                        {
+                                            "name": "Kiwanos"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Nectarines"
+                                },
+                                {
+                                    "name": "Oranges"
+                                },
+                                {
+                                    "name": "Papayas"
+                                },
+                                {
+                                    "name": "Passion Fruit"
+                                },
+                                {
+                                    "name": "Peaches"
+                                },
+                                {
+                                    "name": "Pears"
+                                },
+                                {
+                                    "name": "Persimmons"
+                                },
+                                {
+                                    "name": "Physalis"
+                                },
+                                {
+                                    "name": "Pineapples"
+                                },
+                                {
+                                    "name": "Pitahayas"
+                                },
+                                {
+                                    "name": "Plumcots"
+                                },
+                                {
+                                    "name": "Plums"
+                                },
+                                {
+                                    "name": "Pomegranates"
+                                },
+                                {
+                                    "name": "Quince"
+                                },
+                                {
+                                    "name": "Rambutans"
+                                },
+                                {
+                                    "name": "Sapodillo"
+                                },
+                                {
+                                    "name": "Sapote"
+                                },
+                                {
+                                    "name": "Soursops"
+                                },
+                                {
+                                    "name": "Starfruits"
+                                },
+                                {
+                                    "name": "Sugar Apples"
+                                },
+                                {
+                                    "name": "Tamarindo"
+                                },
+                                {
+                                    "name": "Tangelos"
+                                },
+                                {
+                                    "name": "Tangerines"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Fresh & Frozen Vegetables",
+                            "subcategory":[
+                                {
+                                    "name": "Alfafa Sprouts"
+                                },
+                                {
+                                    "name": "Arracachas"
+                                },
+                                {
+                                    "name": "Artichokes"
+                                },
+                                {
+                                    "name": "Arugula"
+                                },
+                                {
+                                    "name": "Asparagus"
+                                },
+                                {
+                                    "name": "Bean Sprouts"
+                                },
+                                {
+                                    "name": "Beans"
+                                },
+                                {
+                                    "name": "Beet Greens"
+                                },
+                                {
+                                    "name": "Beets"
+                                },
+                                {
+                                    "name": "Bok Choy"
+                                },
+                                {
+                                    "name": "Borage"
+                                },
+                                {
+                                    "name": "Broccoli"
+                                },
+                                {
+                                    "name": "Brussel Sprouts"
+                                },
+                                {
+                                    "name": "Cabbage"
+                                },
+                                {
+                                    "name": "Cactus Leaves"
+                                },
+                                {
+                                    "name": "Cardoon"
+                                },
+                                {
+                                    "name": "Carrots"
+                                },
+                                {
+                                    "name": "Cauliflower"
+                                },
+                                {
+                                    "name": "Celery"
+                                },
+                                {
+                                    "name": "Celery Roots"
+                                },
+                                {
+                                    "name": "Chard"
+                                },
+                                {
+                                    "name": "Chick Peas"
+                                },
+                                {
+                                    "name": "Chicory",
+                                    "subcategory":[
+                                        {
+                                            "name": "Belgian Endives"
+                                        },
+                                        {
+                                            "name": "Endives"
+                                        },
+                                        {
+                                            "name": "Escarole"
+                                        },
+                                        {
+                                            "name": "Radicchio"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Choy Sum"
+                                },
+                                {
+                                    "name": "Corn"
+                                },
+                                {
+                                    "name": "Cucumbers"
+                                },
+                                {
+                                    "name": "Eggplants"
+                                },
+                                {
+                                    "name": "Fennel Bulbs"
+                                },
+                                {
+                                    "name": "Fiddlehead Ferns"
+                                },
+                                {
+                                    "name": "Gai Choy"
+                                },
+                                {
+                                    "name": "Gai Lan"
+                                },
+                                {
+                                    "name": "Garlic"
+                                },
+                                {
+                                    "name": "Ginger Root"
+                                },
+                                {
+                                    "name": "Gobo Root"
+                                },
+                                {
+                                    "name": "Gourds"
+                                },
+                                {
+                                    "name": "Greens"
+                                },
+                                {
+                                    "name": "Horseradish Root"
+                                },
+                                {
+                                    "name": "Jicama"
+                                },
+                                {
+                                    "name": "Kale"
+                                },
+                                {
+                                    "name": "Kohlrabi"
+                                },
+                                {
+                                    "name": "Leeks"
+                                },
+                                {
+                                    "name": "Lettuce"
+                                },
+                                {
+                                    "name": "Lotus Roots"
+                                },
+                                {
+                                    "name": "Malangas"
+                                },
+                                {
+                                    "name": "Mushrooms"
+                                },
+                                {
+                                    "name": "Okra"
+                                },
+                                {
+                                    "name": "On Choy"
+                                },
+                                {
+                                    "name": "Onions"
+                                },
+                                {
+                                    "name": "Parsley Roots"
+                                },
+                                {
+                                    "name": "Parsnips"
+                                },
+                                {
+                                    "name": "Peas"
+                                },
+                                {
+                                    "name": "Peppers"
+                                },
+                                {
+                                    "name": "Potatoes"
+                                },
+                                {
+                                    "name": "Pumpkins"
+                                },
+                                {
+                                    "name": "Radishes"
+                                },
+                                {
+                                    "name": "Rhubarb"
+                                },
+                                {
+                                    "name": "Rutabagas"
+                                },
+                                {
+                                    "name": "Salad Mixes"
+                                },
+                                {
+                                    "name": "Shallots"
+                                },
+                                {
+                                    "name": "Spinach"
+                                },
+                                {
+                                    "name": "Squashes"
+                                },
+                                {
+                                    "name": "Sugar Cane"
+                                },
+                                {
+                                    "name": "Sunchokes"
+                                },
+                                {
+                                    "name": "Sweet Potatoes"
+                                },
+                                {
+                                    "name": "Tamarillos"
+                                },
+                                {
+                                    "name": "Taro Root"
+                                },
+                                {
+                                    "name": "Tomatoes"
+                                },
+                                {
+                                    "name": "Turnips"
+                                },
+                                {
+                                    "name": "Tuscan Cabbage"
+                                },
+                                {
+                                    "name": "Water Chestnuts"
+                                },
+                                {
+                                    "name": "Watercress"
+                                },
+                                {
+                                    "name": "Wheatgrass"
+                                },
+                                {
+                                    "name": "Yu Choy"
+                                },
+                                {
+                                    "name": "Yuca Root"
+                                },
+                                {
+                                    "name": "Ñame"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Fruit Sauce",
+                            "subcategory":[
+                                {
+                                    "name": "Apple Sauce"
+                                },
+                                {
+                                    "name": "Cranberry Sauce"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Grains. Rice & Cereal",
+                    "subcategory":[
+                        {
+                            "name": "Amaranth"
+                        },
+                        {
+                            "name": "Barley"
+                        },
+                        {
+                            "name": "Buckwheat"
+                        },
+                        {
+                            "name": "Cereal & Granola"
+                        },
+                        {
+                            "name": "Cornmeal"
+                        },
+                        {
+                            "name": "Couscous"
+                        },
+                        {
+                            "name": "Millet"
+                        },
+                        {
+                            "name": "Oats. Grits & Hot Cereal"
+                        },
+                        {
+                            "name": "Quinoa"
+                        },
+                        {
+                            "name": "Rice"
+                        },
+                        {
+                            "name": "Rye"
+                        },
+                        {
+                            "name": "Wheat"
+                        }
+                    ]
+                },
+                {
+                    "name": "Meat. Seafood & Eggs",
+                    "subcategory":[
+                        {
+                            "name": "Eggs"
+                        },
+                        {
+                            "name": "Meat",
+                            "subcategory":[
+                                {
+                                    "name": "Canned Meats"
+                                },
+                                {
+                                    "name": "Fresh & Frozen Meats"
+                                },
+                                {
+                                    "name": "Lunch & Deli Meats"
+                                },
+                                {
+                                    "name": "Meat Patties"
+                                },
+                                {
+                                    "name": "Sausages & Hot Dogs"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Seafood",
+                            "subcategory":[
+                                {
+                                    "name": "Canned Seafood"
+                                },
+                                {
+                                    "name": "Fresh & Frozen Seafood"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Nuts & Seeds",
+                    "subcategory":[
+                        {
+                            "name": "Almonds"
+                        },
+                        {
+                            "name": "Brazil Nuts"
+                        },
+                        {
+                            "name": "Cashews"
+                        },
+                        {
+                            "name": "Chestnuts"
+                        },
+                        {
+                            "name": "Chocolate Covered Nuts"
+                        },
+                        {
+                            "name": "Hazelnuts"
+                        },
+                        {
+                            "name": "Kola Nuts"
+                        },
+                        {
+                            "name": "Macadamia Nuts"
+                        },
+                        {
+                            "name": "Mamoncillo Nuts"
+                        },
+                        {
+                            "name": "Maya Nuts"
+                        },
+                        {
+                            "name": "Mixed Nuts"
+                        },
+                        {
+                            "name": "Ogbono Nuts"
+                        },
+                        {
+                            "name": "Paradise Nuts"
+                        },
+                        {
+                            "name": "Peanuts"
+                        },
+                        {
+                            "name": "Pecans"
+                        },
+                        {
+                            "name": "Pine Nuts"
+                        },
+                        {
+                            "name": "Pistachios"
+                        },
+                        {
+                            "name": "Pumpkin Seeds"
+                        },
+                        {
+                            "name": "Sesame Seeds"
+                        },
+                        {
+                            "name": "Soy Nuts"
+                        },
+                        {
+                            "name": "Sunflower Seeds"
+                        },
+                        {
+                            "name": "Walnuts"
+                        }
+                    ]
+                },
+                {
+                    "name": "Pasta & Noodles"
+                },
+                {
+                    "name": "Prepared Foods",
+                    "subcategory":[
+                        {
+                            "name": "Appetizers & Hors d'Oeuvres"
+                        },
+                        {
+                            "name": "Frozen Dinners"
+                        },
+                        {
+                            "name": "Prepared Entrées & Sides",
+                            "subcategory":[
+                                {
+                                    "name": "Breakfast Sandwiches"
+                                },
+                                {
+                                    "name": "Pizza"
+                                },
+                                {
+                                    "name": "Prepared Entrées"
+                                },
+                                {
+                                    "name": "Prepared Sandwiches"
+                                },
+                                {
+                                    "name": "Prepared Side Dishes"
+                                },
+                                {
+                                    "name": "Waffles. Pancakes & French Toast"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Skillet Dinners"
+                        },
+                        {
+                            "name": "Sushi"
+                        }
+                    ]
+                },
+                {
+                    "name": "Seasonings & Spices",
+                    "subcategory":[
+                        {
+                            "name": "Herbs & Spices",
+                            "subcategory":[
+                                {
+                                    "name": "Anise"
+                                },
+                                {
+                                    "name": "Basil"
+                                },
+                                {
+                                    "name": "Bay Leaves"
+                                },
+                                {
+                                    "name": "Chili Powder"
+                                },
+                                {
+                                    "name": "Chives"
+                                },
+                                {
+                                    "name": "Cilantro"
+                                },
+                                {
+                                    "name": "Cinnamon"
+                                },
+                                {
+                                    "name": "Cumin"
+                                },
+                                {
+                                    "name": "Dill"
+                                },
+                                {
+                                    "name": "Fennel Seeds"
+                                },
+                                {
+                                    "name": "Garlic Powder"
+                                },
+                                {
+                                    "name": "Lemon Grass"
+                                },
+                                {
+                                    "name": "Marjoram"
+                                },
+                                {
+                                    "name": "Mint"
+                                },
+                                {
+                                    "name": "Onion Powder"
+                                },
+                                {
+                                    "name": "Oregano"
+                                },
+                                {
+                                    "name": "Paprika"
+                                },
+                                {
+                                    "name": "Parsley"
+                                },
+                                {
+                                    "name": "Rosemary"
+                                },
+                                {
+                                    "name": "Sage"
+                                },
+                                {
+                                    "name": "Salsify"
+                                },
+                                {
+                                    "name": "Savory"
+                                },
+                                {
+                                    "name": "Sorrel"
+                                },
+                                {
+                                    "name": "Tarragon"
+                                },
+                                {
+                                    "name": "Thyme"
+                                },
+                                {
+                                    "name": "Vanilla Beans"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "MSG"
+                        },
+                        {
+                            "name": "Pepper"
+                        },
+                        {
+                            "name": "Salt"
+                        },
+                        {
+                            "name": "Seasoning & Spice Blends"
+                        }
+                    ]
+                },
+                {
+                    "name": "Snack Foods",
+                    "subcategory":[
+                        {
+                            "name": "Breadsticks"
+                        },
+                        {
+                            "name": "Cereal & Granola Bars"
+                        },
+                        {
+                            "name": "Cheese Puffs"
+                        },
+                        {
+                            "name": "Chips",
+                            "subcategory":[
+                                {
+                                    "name": "Bagel Chips"
+                                },
+                                {
+                                    "name": "Corn & Tortilla Chips"
+                                },
+                                {
+                                    "name": "Pita Chips"
+                                },
+                                {
+                                    "name": "Potato Chips"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Crackers",
+                            "subcategory":[
+                                {
+                                    "name": "Cheese Crackers"
+                                },
+                                {
+                                    "name": "Cracker Assortments"
+                                },
+                                {
+                                    "name": "Flatbread Crackers"
+                                },
+                                {
+                                    "name": "Graham Crackers"
+                                },
+                                {
+                                    "name": "Matzo Crackers"
+                                },
+                                {
+                                    "name": "Oyster Crackers"
+                                },
+                                {
+                                    "name": "Saltine Crackers"
+                                },
+                                {
+                                    "name": "Sandwich Crackers"
+                                },
+                                {
+                                    "name": "Water Crackers"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Croutons"
+                        },
+                        {
+                            "name": "Fruit Snacks"
+                        },
+                        {
+                            "name": "Jerky",
+                            "subcategory":[
+                                {
+                                    "name": "Beef Jerky"
+                                },
+                                {
+                                    "name": "Pork Jerky"
+                                },
+                                {
+                                    "name": "Turkey Jerky"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Popcorn"
+                        },
+                        {
+                            "name": "Pork Rinds"
+                        },
+                        {
+                            "name": "Pretzels"
+                        },
+                        {
+                            "name": "Pudding & Gelatin Snacks"
+                        },
+                        {
+                            "name": "Puffed Rice Cakes"
+                        },
+                        {
+                            "name": "Salad Toppings"
+                        },
+                        {
+                            "name": "Sesame Sticks"
+                        },
+                        {
+                            "name": "Snack Cakes"
+                        },
+                        {
+                            "name": "Sticky Rice Cakes"
+                        },
+                        {
+                            "name": "Trail & Snack Mixes"
+                        }
+                    ]
+                },
+                {
+                    "name": "Soups & Broths",
+                    "subcategory":[
+                        {
+                            "name": "Bouillon Cubes"
+                        },
+                        {
+                            "name": "Canned Soups & Broths"
+                        },
+                        {
+                            "name": "Dried Soups"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tofu. Soy & Vegetarian Products",
+                    "subcategory":[
+                        {
+                            "name": "Cheese Alternatives"
+                        },
+                        {
+                            "name": "Meat Alternatives"
+                        },
+                        {
+                            "name": "Seitan"
+                        },
+                        {
+                            "name": "Tempeh"
+                        },
+                        {
+                            "name": "Tofu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Tobacco Products",
+            "subcategory":[
+                {
+                    "name": "Chewing Tobacco"
+                },
+                {
+                    "name": "Cigarettes"
+                },
+                {
+                    "name": "Cigars"
+                },
+                {
+                    "name": "Electronic Cigarettes"
+                },
+                {
+                    "name": "Loose Tobacco"
+                }
+
+            ]
+        }
+    ]
+}

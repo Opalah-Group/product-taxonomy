@@ -1,0 +1,376 @@
+{
+    "name": "Animals & Pet Supplies",
+    "subcategory": [
+        {
+            "name": "Live Animals"
+        },
+        {
+            "name": "Pet Supplies",
+            "subcategory": [
+                {
+                    "name": "Bird Supplies",
+                    "subcategory": [
+                        {
+                            "name": "Bird Cage Accessories",
+                            "subcategory": [
+                                {
+                                    "name": "Bird Cage Food & Water Dishes"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Bird Cages & Stands"
+                        },
+                        {
+                            "name": "Bird Food"
+                        },
+                        {
+                            "name": "Bird Gyms & Playstands"
+                        },
+                        {
+                            "name": "Bird Ladders & Perches"
+                        },
+                        {
+                            "name": "Bird Toys"
+                        },
+                        {
+                            "name": "Bird Treats"
+                        }
+                    ]
+                },
+                {
+                    "name" : "Cat Supplies",
+                    "subcategory": [
+                        {
+                            "name" : "Cat Apparel"
+                        },
+                        {
+                            "name" : "Cat Beds"
+                        },
+                        {
+                            "name" : "Cat Food"
+                        },
+                        {
+                            "name" : "Cat Furniture"
+                        },
+                        {
+                            "name" : "Cat Litter"
+                        },
+                        {
+                            "name" : "Cat Litter Box Mats"
+                        },
+                        {
+                            "name" : "Cat Litter Boxes"
+                        },
+                        {
+                            "name" : "Cat Toys"
+                        },
+                        {
+                            "name" : "Cat Treats"
+                        }
+                    ]
+                },
+                {
+                    "name": "Dog Supplies",
+                    "subcategory": [
+                        {
+                            "name" : "Dog Apparel"
+                        },
+                        {
+                            "name" : "Dog Beds"
+                        },
+                        {
+                            "name" : "Dog Diaper Pads & Liners"
+                        },
+                        {
+                            "name" : "Dog Food"
+                        },
+                        {
+                            "name" : "Dog Houses"
+                        },
+                        {
+                            "name" : "Dog Kennel & Run Accessories"
+                        },
+                        {
+                            "name" : "Dog Kennels & Runs"
+                        },
+                        {
+                            "name" : "Dog Toys"
+                        },
+                        {
+                            "name" : "Dog Treats"
+                        }
+                    ]
+                },
+                {
+                    "name": "Fish Supplies",
+                    "subcategory": [
+                        {
+                            "name" : "Aquarium Air Pumps"
+                        },
+                        {
+                            "name" : "Aquarium Decor",
+                            "subcategory": [
+                                {
+                                    "name": "Artificial Aquarium Plants"
+                                }
+                            ]
+                        },
+                        {
+                            "name" : "Aquarium Filters"
+                        },
+                        {
+                            "name" : "Aquarium Gravel & Substrates"
+                        },
+                        {
+                            "name" : "Aquarium Heating"
+                        },
+                        {
+                            "name" : "Aquarium Lighting"
+                        },
+                        {
+                            "name" : "Aquarium Overflow Boxes"
+                        },
+                        {
+                            "name" : "Aquarium Stands"
+                        },
+                        {
+                            "name" : "Aquarium Water Pumps"
+                        },
+                        {
+                            "name" : "Aquarium Water Treatments"
+                        },
+                        {
+                            "name" : "Aquariums"
+                        },
+                        {
+                            "name" : "Aquatic Plant Fertilizers"
+                        },
+                        {
+                            "name" : "Fish Feeders"
+                        },
+                        {
+                            "name" : "Fish Food"
+                        }
+                    ]
+                },
+                {
+                    "name": "Pet Agility Equipment"
+                },
+                {
+                    "name": "Pet Apparel Hangers"
+                },
+                {
+                    "name": "Pet Attractant"
+                },
+                {
+                    "name": "Pet Bells & Charms"
+                },
+                {
+                    "name": "Pet Biometric Monitors",
+                    "subcategory": [
+                        {
+                            "name" : "Pet Glucose Meters"
+                        },
+                        {
+                            "name" : "Pet Pedometers"
+                        },
+                        {
+                            "name" : "Pet Scales"
+                        },
+                        {
+                            "name" : "Pet Thermometers"
+                        }
+                    ]
+                },
+                {
+                    "name": "Pet Bowl Mats"
+                },
+                {
+                    "name": "Pet Bowls. Feeders & Waterers",
+                    "subcategory": [
+                        {
+                            "name": "Cat Bowls. Feeders & Waterers"
+                        },
+                        {
+                            "name": "Dog Bowls. Feeders & Waterers"
+                        },
+                        {
+                            "name": "Small Animal Bowls. Feeders & Waterers"
+                        }
+                    ]
+                },
+                {
+                    "name": "Pet Carriers & Crates",
+                    "subcategory": [
+                        {
+                            "name": "Cat Carriers & Crates"
+                        },
+                        {
+                            "name": "Dog Carriers & Crates"
+                        },
+                        {
+                            "name": "Small Animal Carriers"
+                        }
+                    ]
+                },
+                {
+                    "name": "Pet Collars & Harnesses",
+                    "subcategory": [
+                        {
+                            "name": "Cat Collars & Harnesses"
+                        },
+                        {
+                            "name": "Dog Collars & Harnesses"
+                        }
+                    ]
+                },
+                {
+                    "name": "Pet Containment Systems"
+                },
+                {
+                    "name": "Pet Eye Drops & Lubricants"
+                },
+                {
+                    "name": "Pet Flea & Tick Control",
+                    "subcategory": [
+                        {
+                            "name": "Cat Flea & Tick Control"
+                        },
+                        {
+                            "name": "Dog Flea & Tick Control"
+                        }
+                    ]
+                },
+                {
+                    "name": "Pet Food Containers"
+                },
+                {
+                    "name": "Pet Food Scoops"
+                },
+                {
+                    "name": "Pet Grooming Supplies",
+                    "subcategory": [
+                        {
+                            "name":"Pet Combs & Brushes"
+                        },
+                        {
+                            "name": "Pet Hair Clippers & Trimmers"
+                        },
+                        {
+                            "name": "Pet Nail Polish"
+                        },
+                        {
+                            "name": "Pet Nail Tools"
+                        },
+                        {
+                            "name": "Pet Shampoo & Conditioner"
+                        }
+                    ]
+                },
+                {
+                    "name": "Pet ID Tags"
+                },
+                {
+                    "name": "Pet Leash Extensions"
+                },
+                {
+                    "name": "Pet Leashes",
+                    "subcategory": [
+                        {
+                            "name": "Cat Leashes"
+                        },
+                        {
+                            "name": "Dog Leashes"
+                        }
+                    ]
+                },
+                {
+                    "name": "Pet Medical Collars"
+                },
+                {
+                    "name": "Pet Medical Tape & Bandages"
+                },
+                {
+                    "name": "Pet Medicine"
+                },
+                {
+                    "name": "Pet Muzzles"
+                },
+                {
+                    "name": "Pet Oral Care",
+                    "subcategory": [
+                        {
+                            "name": "Pet Breath Spray"
+                        },
+                        {
+                            "name": "Pet Toothbrushes"
+                        },
+                        {
+                            "name": "Pet Toothpaste"
+                        }
+
+                    ]
+                },
+                {
+                    "name": "Pet Playpens"
+                },
+                {
+                    "name": "Pet Steps & Ramps"
+                },
+                {
+                    "name": "Pet Strollers"
+                },
+                {
+                    "name": "Pet Sunscreen"
+                },
+                {
+                    "name": "Pet Training Pads"
+                },
+                {
+                    "name": "Pet Vitamins & Supplements"
+                },
+                {
+                    "name": "Reptile & Amphibian Supplies",
+                    "subcategory": [
+                        {
+                            "name": "Reptile & Amphibian Food"
+                        },
+                        {
+                            "name": "Reptile & Amphibian Habitat Accessories"
+                        },
+                        {
+                            "name": "Reptile & Amphibian Habitat Heating & Lighting"
+                        },
+                        {
+                            "name": "Reptile & Amphibian Habitats"
+                        },
+                        {
+                            "name": "Reptile & Amphibian Substrates"
+                        }
+                    ]
+                },
+                {
+                    "name": "Small Animal Supplies",
+                    "subcategory": [
+                        {
+                            "name": "Small Animal Bedding"
+                        },
+                        {
+                            "name": "Small Animal Food"
+                        },
+                        {
+                            "name": "Small Animal Habitat Accessories"
+                        },
+                        {
+                            "name": "Small Animal Habitats & Cages"
+                        },
+                        {
+                            "name": "Small Animal Treats"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1295 @@
+{
+    "name": "Apparel & Accessories",
+    "subcategory": [
+        {
+            "name": "Clothing",
+            "subcategory": [
+                {
+                    "name": "Activewear",
+                    "subcategory": [
+                        {
+                            "name": "Active Dresses"
+                        },
+                        {
+                            "name": "Active Jackets",
+                            "subcategory": [
+                                {
+                                    "name": "Windbreakers"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Active Leotards"
+                        },
+                        {
+                            "name": "Active Pants"
+                        },
+                        {
+                            "name": "Active Shirts"
+                        },
+                        {
+                            "name": "Active Shorts"
+                        },
+                        {
+                            "name": "Active Skirts"
+                        },
+                        {
+                            "name": "Active Tanks"
+                        },
+                        {
+                            "name": "Active Undergarments",
+                            "subcategory": [
+                                {
+                                    "name": "Active Underwear"
+                                },
+                                {
+                                    "name": "Compression Undergarment Shorts"
+                                },
+                                {
+                                    "name": "Jock Straps"
+                                },
+                                {
+                                    "name": "Sports Bras"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Activewear Sets"
+                        },
+                        {
+                            "name": "Bicycle Activewear",
+                            "subcategory": [
+                                {
+                                    "name": "Bicycle Bibs"
+                                },
+                                {
+                                    "name": "Bicycle Jerseys"
+                                },
+                                {
+                                    "name": "Bicycle Shorts"
+                                },
+                                {
+                                    "name": "Bicycle Skinsuits"
+                                },
+                                {
+                                    "name": "Bicycle Tights"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Boxing Shorts"
+                        },
+                        {
+                            "name": "Dancewear",
+                            "subcategory": [
+                                {
+                                    "name": "Dance Dresses"
+                                },
+                                {
+                                    "name": "Dance Pants"
+                                },
+                                {
+                                    "name": "Dance Skirts"
+                                },
+                                {
+                                    "name": "Dance Tights"
+                                },
+                                {
+                                    "name": "Dance Tops"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Football Pants"
+                        },
+                        {
+                            "name": "Hunting Clothing",
+                            "subcategory": [
+                                {
+                                    "name": "Ghillie Suits"
+                                },
+                                {
+                                    "name": "Hunting & Tactical Pants"
+                                },
+                                {
+                                    "name": "Hunting & Tactical Vests"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Long Johns"
+                        },
+                        {
+                            "name": "Martial Arts Shorts"
+                        },
+                        {
+                            "name": "Motorcycle Protective Clothing",
+                            "subcategory": [
+                                {
+                                    "name": "Motorcycle Jackets"
+                                },
+                                {
+                                    "name": "Motorcycle Pants"
+                                },
+                                {
+                                    "name": "Motorcycle Suits"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Paintball Clothing"
+                        },
+                        {
+                            "name": "Sauna Suits"
+                        },
+                        {
+                            "name": "Snow Pants & Suits"
+                        }
+                    ]
+                },
+                {
+                    "name": "Baby & Toddler Clothing",
+                    "subcategory": [
+                        {
+                            "name": "Baby & Toddler Bottoms"
+                        },
+                        {
+                            "name": "Baby & Toddler Diaper Covers"
+                        },
+                        {
+                            "name": "Baby & Toddler Dresses"
+                        },
+                        {
+                            "name": "Baby & Toddler Outerwear"
+                        },
+                        {
+                            "name": "Baby & Toddler Outfits"
+                        },
+                        {
+                            "name": "Baby & Toddler Socks & Tights"
+                        },
+                        {
+                            "name": "Baby & Toddler Swimwear"
+                        },
+                        {
+                            "name": "Baby & Toddler Tops"
+                        },
+                        {
+                            "name": "Baby Onesies"
+                        },
+                        {
+                            "name": "Baby Sleepwear & Swaddlers"
+                        },
+                        {
+                            "name": "Toddler Underwear"
+                        }
+                    ]
+                },
+                {
+                    "name": "Dresses",
+                    "subcategory": [
+                        {
+                            "name": "Cocktail Dresses"
+                        },
+                        {
+                            "name": "Day Dresses"
+                        },
+                        {
+                            "name": "Formal Gowns"
+                        },
+                        {
+                            "name": "Little Black Dresses"
+                        }
+                    ]
+                },
+                {
+                    "name": "One-Pieces",
+                    "subcategory": [
+                        {
+                            "name": "Jumpsuits & Rompers"
+                        },
+                        {
+                            "name": "Leotards & Unitards"
+                        },
+                        {
+                            "name": "Overalls"
+                        }
+                    ]
+                },
+                {
+                    "name": "Outerwear",
+                    "subcategory": [
+                        {
+                            "name": "Chaps"
+                        },
+                        {
+                            "name": "Coats & Jackets",
+                            "subcategory": [
+                                {
+                                    "name": "Anorak Jackets"
+                                },
+                                {
+                                    "name": "Blazers"
+                                },
+                                {
+                                    "name": "Boleros"
+                                },
+                                {
+                                    "name": "Capes & Ponchos"
+                                },
+                                {
+                                    "name": "Denim Jackets"
+                                },
+                                {
+                                    "name": "Down & Snow Jackets"
+                                },
+                                {
+                                    "name": "Fleece Jackets"
+                                },
+                                {
+                                    "name": "Fur Coats"
+                                },
+                                {
+                                    "name": "Leather & Suede Jackets"
+                                },
+                                {
+                                    "name": "Overcoats"
+                                },
+                                {
+                                    "name": "Trench Coats"
+                                },
+                                {
+                                    "name": "Tweed Jackets"
+                                },
+                                {
+                                    "name": "Varsity Jackets"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rain Gear",
+                            "subcategory": [
+                                {
+                                    "name": "Rain Pants"
+                                },
+                                {
+                                    "name": "Rain Suits"
+                                },
+                                {
+                                    "name": "Raincoats"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Vests"
+                        }
+                    ]
+                },
+                {
+                    "name": "Outfit Sets"
+                },
+                {
+                    "name": "Pants",
+                    "subcategory": [
+                        {
+                            "name": "Cargo Pants"
+                        },
+                        {
+                            "name": "Corduroy & Velvet Pants"
+                        },
+                        {
+                            "name": "Dress Pants"
+                        },
+                        {
+                            "name": "Jeans"
+                        },
+                        {
+                            "name": "Khaki & Chino Pants"
+                        },
+                        {
+                            "name": "Leather & Suede Pants"
+                        },
+                        {
+                            "name": "Leggings"
+                        },
+                        {
+                            "name": "Linen Pants"
+                        }
+                    ]
+                },
+                {
+                    "name": "Shirts & Tops",
+                    "subcategory": [
+                        {
+                            "name": "Camisoles & Tank Tops"
+                        },
+                        {
+                            "name": "Polo Shirts"
+                        },
+                        {
+                            "name": "Shirts & Blouses"
+                        },
+                        {
+                            "name": "Sports Fan Jerseys"
+                        },
+                        {
+                            "name": "Sweaters & Cardigans"
+                        },
+                        {
+                            "name": "Sweatshirts"
+                        },
+                        {
+                            "name": "T-Shirts"
+                        }
+                    ]
+                },
+                {
+                    "name": "Shorts",
+                    "subcategory": [
+                        {
+                            "name": "Bermuda Shorts"
+                        },
+                        {
+                            "name": "Cargo Shorts"
+                        },
+                        {
+                            "name": "Short Shorts"
+                        }
+                    ]
+                },
+                {
+                    "name": "Skirts"
+                },
+                {
+                    "name": "Skorts"
+                },
+                {
+                    "name": "Sleepwear & Loungewear",
+                    "subcategory": [
+                        {
+                            "name": "Loungewear"
+                        },
+                        {
+                            "name": "Nightgowns"
+                        },
+                        {
+                            "name": "Pajamas"
+                        },
+                        {
+                            "name": "Robes"
+                        }
+                    ]
+                },
+                {
+                    "name": "Suits",
+                    "subcategory": [
+                        {
+                            "name": "Pant Suits"
+                        },
+                        {
+                            "name": "Skirt Suits"
+                        },
+                        {
+                            "name": "Suit Separates"
+                        },
+                        {
+                            "name": "Tuxedos"
+                        }
+                    ]
+                },
+                {
+                    "name": "Swimwear",
+                    "subcategory": [
+                        {
+                            "name": "Bikinis"
+                        },
+                        {
+                            "name": "Cover-Ups"
+                        },
+                        {
+                            "name": "One-Piece Swimsuits"
+                        },
+                        {
+                            "name": "Swim Briefs"
+                        },
+                        {
+                            "name": "Swim Shorts"
+                        },
+                        {
+                            "name": "Swimsuit Bottoms"
+                        },
+                        {
+                            "name": "Swimsuit Tops"
+                        },
+                        {
+                            "name": "Tankinis & Extra Coverage Swimwear"
+                        }
+                    ]
+                },
+                {
+                    "name": "Traditional & Ceremonial Clothing",
+                    "subcategory": [
+                        {
+                            "name": "Dirndls"
+                        },
+                        {
+                            "name": "Hakama Trousers"
+                        },
+                        {
+                            "name": "Kimono Outerwear",
+                            "subcategory": [
+                                {
+                                    "name": "Haori Jackets"
+                                },
+                                {
+                                    "name": "Kimono Coats"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Kimonos",
+                            "subcategory": [
+                                {
+                                    "name": "Bridal Kimonos"
+                                },
+                                {
+                                    "name": "Casual Kimonos"
+                                },
+                                {
+                                    "name": "Furisode Kimonos"
+                                },
+                                {
+                                    "name": "Iromuji Kimonos"
+                                },
+                                {
+                                    "name": "Komon Kimonos"
+                                },
+                                {
+                                    "name": "Tomesode & Houmongi Kimonos"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Religious Ceremonial Clothing"
+                        },
+                        {
+                            "name": "Traditional Leather Pants"
+                        },
+                        {
+                            "name": "Yukata"
+                        }
+                    ]
+                },
+                {
+                    "name": "Underwear & Socks",
+                    "subcategory": [
+                        {
+                            "name": "Bra Accessories",
+                            "subcategory":[
+                                {
+                                    "name": "Bra Strap Pads"
+                                },
+                                {
+                                    "name": "Bra Straps & Extenders"
+                                },
+                                {
+                                    "name": "Breast Enhancing Inserts"
+                                },
+                                {
+                                    "name": "Breast Petals & Concealers"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Bras",
+                            "subcategory":[
+                                {
+                                    "name": "Nursing Bras"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Bridal Intimates"
+                        },
+                        {
+                            "name": "Hosiery"
+                        },
+                        {
+                            "name": "Lingerie"
+                        },
+                        {
+                            "name": "Lingerie Accessories",
+                            "subcategory": [
+                                {
+                                    "name": "Garter Belts"
+                                },
+                                {
+                                    "name": "Garters"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Petticoats & Pettipants"
+                        },
+                        {
+                            "name": "Shapewear"
+                        },
+                        {
+                            "name": "Socks"
+                        },
+                        {
+                            "name": "Undershirts"
+                        },
+                        {
+                            "name": "Underwear"
+                        },
+                        {
+                            "name": "Underwear Slips"
+                        }
+                    ]
+                },
+                {
+                    "name": "Uniforms",
+                    "subcategory": [
+                        {
+                            "name": "Contractor Pants & Coveralls"
+                        },
+                        {
+                            "name": "Flight Suits"
+                        },
+                        {
+                            "name": "Food Service Uniforms",
+                            "subcategory": [
+                                {
+                                    "name": "Chef's Hats"
+                                },
+                                {
+                                    "name": "Chef's Jackets"
+                                },
+                                {
+                                    "name": "Chef's Pants"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Military Uniforms"
+                        },
+                        {
+                            "name": "School Uniforms"
+                        },
+                        {
+                            "name": "Security Uniforms"
+                        },
+                        {
+                            "name": "Sports Uniforms",
+                            "subcategory": [
+                                {
+                                    "name": "Baseball Uniforms"
+                                },
+                                {
+                                    "name": "Basketball Uniforms"
+                                },
+                                {
+                                    "name": "Cheerleading Uniforms"
+                                },
+                                {
+                                    "name": "Cricket Uniforms"
+                                },
+                                {
+                                    "name": "Football Uniforms"
+                                },
+                                {
+                                    "name": "Hockey Uniforms"
+                                },
+                                {
+                                    "name": "Martial Arts Uniforms"
+                                },
+                                {
+                                    "name": "Officiating Uniforms"
+                                },
+                                {
+                                    "name": "Soccer Uniforms"
+                                },
+                                {
+                                    "name": "Softball Uniforms"
+                                },
+                                {
+                                    "name": "Wrestling Uniforms"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "White Coats"
+                        }                                
+                    ]
+                },
+                {
+                    "name": "Wedding & Bridal Party Dresses",
+                    "subcategory": [
+                        {
+                            "name": "Bridal Party Dresses"
+                        },
+                        {
+                            "name": "Wedding Dresses"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Clothing Accessories",
+            "subcategory": [
+                {
+                    "name": "Arm & Leg Warmers",
+                    "subcategory" : [
+                        {
+                            "name" : "Arm Warmers"
+                        },
+                        {
+                            "name" : "Leg Warmers"
+                        }
+                    ]
+                },
+                {
+                    "name": "Baby & Toddler Clothing Accessories",
+                    "subcategory" : [
+                        {
+                            "name": "Baby & Toddler Belts"
+                        },
+                        {
+                            "name": "Baby & Toddler Gloves & Mittens"
+                        },
+                        {
+                            "name": "Baby & Toddler Hats"
+                        },
+                        {
+                            "name": "Baby Protective Wear"
+                        }
+                    ]
+                },
+                {
+                    "name": "Balaclavas"
+                },
+                {
+                    "name": "Bandanas & Headties"
+                },
+                {
+                    "name": "Belt Buckles"
+                },
+                {
+                    "name": "Belts"
+                },
+                {
+                    "name": "Bridal Accessories",
+                    "subcategory" : [
+                        {
+                            "name" : "Bridal Veils"
+                        }
+                    ]
+                },
+                {
+                    "name": "Button Studs"
+                },
+                {
+                    "name": "Collar Stays"
+                },
+                {
+                    "name": "Cufflinks"
+                },
+                {
+                    "name": "Earmuffs"
+                },
+                {
+                    "name": "Folding Fans"
+                },
+                {
+                    "name": "Gloves & Mittens",
+                    "subcategory" : [
+                        {
+                            "name": "Formal Gloves"
+                        },
+                        {
+                            "name": "Gloves"
+                        },
+                        {
+                            "name": "Mittens"
+                        },
+                        {
+                            "name": "Ski & Snowboard Gloves"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hair Accessories",
+                    "subcategory": [
+                        {
+                            "name": "Hair Claws"
+                        },
+                        {
+                            "name": "Hair Combs"
+                        },
+                        {
+                            "name": "Hair Extensions"
+                        },
+                        {
+                            "name": "Hair Forks & Sticks"
+                        },
+                        {
+                            "name": "Hair Nets"
+                        },
+                        {
+                            "name": "Hair Pins & Clips"
+                        },
+                        {
+                            "name": "Hair Wreaths"
+                        },
+                        {
+                            "name": "Headbands"
+                        },
+                        {
+                            "name": "Ponytail Holders"
+                        },
+                        {
+                            "name": "Tiaras"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hand Muffs"
+                },
+                {
+                    "name": "Handkerchiefs"
+                },
+                {
+                    "name": "Hats",
+                    "subcategory": [
+                        {
+                            "name": "Beanies"
+                        },
+                        {
+                            "name": "Berets"
+                        },
+                        {
+                            "name": "Bowler & Derby Hats"
+                        },
+                        {
+                            "name": "Caps",
+                            "subcategory": [
+                                {
+                                    "name": "Baseball Caps"
+                                },
+                                {
+                                    "name": "Newsboy Caps"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cowboys Hats"
+                        },
+                        {
+                            "name": "Fedoras"
+                        },
+                        {
+                            "name": "Sun Hats"
+                        },
+                        {
+                            "name": "Umbrella Hats"
+                        },
+                        {
+                            "name": "Visors"
+                        }
+                    ]
+                },
+                {
+                    "name": "Headwear",
+                    "subcategory": [
+                        {
+                            "name": "Fascinators"
+                        },
+                        {
+                            "name": "Headdresses"
+                        },
+                        {
+                            "name": "Turbans"
+                        }
+                    ]
+                },
+                {
+                    "name": "Leis"
+                },
+                {
+                    "name": "Neck Gaiters"
+                },
+                {
+                    "name": "Neckties",
+                    "subcategory": [
+                        {
+                            "name": "Ascot Ties"
+                        },
+                        {
+                            "name": "Bolo Ties"
+                        },
+                        {
+                            "name": "Bow Ties"
+                        },
+                        {
+                            "name": "Ties"
+                        }
+                    ]
+                },
+                {
+                    "name": "Pinback Buttons"
+                },
+                {
+                    "name": "Scarves & Shawls"
+                },
+                {
+                    "name": "Sunglasses"
+                },
+                {
+                    "name": "Suspenders"
+                },
+                {
+                    "name": "Tie Clips"
+                },
+                {
+                    "name": "Traditional Clothing Accessories",
+                    "subcategory": [
+                        {
+                            "name": "Kimono Underclothes"
+                        },
+                        {
+                            "name": "Obi Accessories"
+                        },
+                        {
+                            "name": "Obis"
+                        },
+                        {
+                            "name": "Tabi Socks"
+                        }
+                    ]
+                },
+                {
+                    "name": "Veils"
+                },
+                {
+                    "name": "Wristbands"
+                }
+            ]
+        },
+        {
+            "name": "Costumes & Accessories",
+            "subcategory" : [
+                {
+                    "name": "Costume Accessories",
+                    "subcategory": [
+                        {
+                            "name": "Bald Caps"
+                        },
+                        {
+                            "name": "Costume Accessory Sets"
+                        },
+                        {
+                            "name": "Costume Capes"
+                        },
+                        {
+                            "name": "Costume Hats"
+                        },
+                        {
+                            "name": "Pretend Jewelry"
+                        }
+                    ]
+                },
+                {
+                    "name": "Costume Shoes"
+                },
+                {
+                    "name": "Costumes"
+                },
+                {
+                    "name": "Masks"
+                },
+                {
+                    "name": "Wig Accessories",
+                    "subcategory" : [
+                        {
+                            "name": "Wig Caps"
+                        },
+                        {
+                            "name": "Wig Glue"
+                        }
+                    ]
+                },
+                {
+                    "name": "Wigs"
+                }
+            ]
+        },
+        {
+            "name": "Handbag & Wallet Accessories",
+            "subcategory": [
+                {
+                    "name": "Checkbook Covers"
+                },
+                {
+                    "name": "Keychains"
+                },
+                {
+                    "name": "Lanyards"
+                },
+                {
+                    "name": "Wallet Chains"
+                }
+            ]
+        },
+        {
+            "name": "Handbags. Wallets & Cases",
+            "subcategory": [
+                {
+                    "name": "Badge & Pass Holders"
+                },
+                {
+                    "name": "Business Card Cases"
+                },
+                {
+                    "name": "Handbags",
+                    "subcategory": [
+                        {
+                            "name": "Clutches & Special Occasion Bags"
+                        },
+                        {
+                            "name": "Cross-Body Handbags"
+                        },
+                        {
+                            "name": "Hobo Handbags"
+                        },
+                        {
+                            "name": "Satchels"
+                        },
+                        {
+                            "name": "Shoulder Bags"
+                        },
+                        {
+                            "name": "Tote Handbags"
+                        },
+                        {
+                            "name": "Wristlets"
+                        }
+                    ]
+                },
+                {
+                    "name": "Wallets & Money Clips"
+                }
+            ]
+        },
+        {
+            "name": "Jewelry",
+            "subcategory": [
+                {
+                    "name": "Anklets"
+                },
+                {
+                    "name": "Body Jewelry"
+                },
+                {
+                    "name": "Bracelets"
+                },
+                {
+                    "name": "Brooches & Lapel Pins"
+                },
+                {
+                    "name": "Charms & Pendants"
+                },
+                {
+                    "name": "Earrings"
+                },
+                {
+                    "name": "Jewelry Sets"
+                },
+                {
+                    "name": "Loose Stones",
+                    "subcategory": [
+                        {
+                            "name" : "Diamonds"
+                        }
+                    ]
+                },
+                {
+                    "name": "Necklaces"
+                },
+                {
+                    "name": "Rings"
+                },
+                {
+                    "name": "Watch Accessories",
+                    "subcategory": [
+                        {
+                            "name": "Watch Bands"
+                        },
+                        {
+                            "name": "Watch Stickers & Decals"
+                        },
+                        {
+                            "name": "Watch Winders"
+                        }
+                    ]
+                },
+                {
+                    "name": "Watches",
+                    "subcategory": [
+                        {
+                            "name": "Analog Watches"
+                        },
+                        {
+                            "name": "Digital Watches"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Shoe Accessories",
+            "subcategory": [
+                {
+                    "name": "Boot Liners"
+                },
+                {
+                    "name": "Gaiters"
+                },
+                {
+                    "name": "Shoe Covers"
+                },
+                {
+                    "name": "Shoelaces"
+                },
+                {
+                    "name": "Spurs"
+                }
+
+            ]
+        },
+        {
+            "name": "Shoes",
+            "subcategory": [
+                {
+                    "name": "Athletic Shoes & Sneakers",
+                    "subcategory" : [
+                        {
+                            "name": "Athletic Shoes",
+                            "subcategory": [
+                                {
+                                    "name": "Ballet & Dance Shoes"
+                                },
+                                {
+                                    "name": "Basketball Shoes"
+                                },
+                                {
+                                    "name": "Bowling Shoes"
+                                },
+                                {
+                                    "name": "Boxing Shoes"
+                                },
+                                {
+                                    "name": "Cheerleading Shoes"
+                                },
+                                {
+                                    "name": "Cycling Shoes"
+                                },
+                                {
+                                    "name": "Golf Shoes"
+                                },
+                                {
+                                    "name": "Indoor Court Shoes",
+                                    "subcategory": [
+                                        {
+                                            "name": "Badminton Shoes"
+                                        },
+                                        {
+                                            "name": "Handball Shoes"
+                                        },
+                                        {
+                                            "name": "Volleyball Shoes"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Indoor Soccer Shoes"
+                                },
+                                {
+                                    "name": "Skateboarding Shoes"
+                                },
+                                {
+                                    "name": "Table Tennis Shoes"
+                                },
+                                {
+                                    "name": "Tennis Shoes"
+                                },
+                                {
+                                    "name": "Weightlifting Shoes"
+                                },
+                                {
+                                    "name": "Wrestling Shoes"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cleats",
+                            "subcategory": [
+                                {
+                                    "name": "Baseball & Softball Cleats"
+                                },
+                                {
+                                    "name": "Football Cleats"
+                                },
+                                {
+                                    "name": "Lacrosse Cleats"
+                                },
+                                {
+                                    "name": "Rugby Boots"
+                                },
+                                {
+                                    "name": "Soccer Cleats"
+                                },
+                                {
+                                    "name": "Track Spikes"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sneakers",
+                            "subcategory": [
+                                {
+                                    "name": "Cross Training Shoes"
+                                },
+                                {
+                                    "name": "Fashion Sneakers"
+                                },
+                                {
+                                    "name": "Running Shoes"
+                                },
+                                {
+                                    "name": "Walking Shoes"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Baby & Toddler Shoes"
+                },
+                {
+                    "name": "Boots",
+                    "subcategory": [
+                        {
+                            "name": "Cowboy Boots"
+                        },
+                        {
+                            "name": "Desert & Chukka Boots"
+                        },
+                        {
+                            "name": "Dress Boots"
+                        },
+                        {
+                            "name": "Motorcycle Boots"
+                        },
+                        {
+                            "name": "Rain Boots"
+                        },
+                        {
+                            "name": "Riding Boots"
+                        },
+                        {
+                            "name": "Shearling & Fur Trimmed Boots"
+                        },
+                        {
+                            "name": "Snow Boots"
+                        },
+                        {
+                            "name": "Work & Safety Boots"
+                        }
+                    ]
+                },
+                {
+                    "name": "Clogs & Mules"
+                },
+                {
+                    "name": "Dress Shoes",
+                    "subcategory": [
+                        {
+                            "name": "Formal Shoes"
+                        },
+                        {
+                            "name": "Oxford Shoes"
+                        },
+                        {
+                            "name": "Pumps",
+                            "subcategory": [
+                                {
+                                    "name": "Basic Pumps"
+                                },
+                                {
+                                    "name": "D'orsay & Two-Piece Pumps"
+                                },
+                                {
+                                    "name": "Spectator Pumps"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Espadrilles"
+                },
+                {
+                    "name": "Flats"
+                },
+                {
+                    "name": "Loafers & Slip-Ons"
+                },
+                {
+                    "name": "Moccasins"
+                },
+                {
+                    "name": "Outdoor Shoes",
+                    "subcategory": [
+                        {
+                            "name": "Climbing Shoes"
+                        },
+                        {
+                            "name": "Fishing & Hunting Shoes"
+                        },
+                        {
+                            "name": "Gardening Shoes"
+                        },
+                        {
+                            "name": "Hiking Boots & Shoes"
+                        },
+                        {
+                            "name": "Performance Boating Shoes"
+                        },
+                        {
+                            "name": "Water Shoes"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sandals",
+                    "subcategory": [
+                        {
+                            "name": "Fisherman Sandals"
+                        },
+                        {
+                            "name": "Slide Sandals"
+                        },
+                        {
+                            "name": "Thongs & Flip-Flops"
+                        }
+                    ]
+                },
+                {
+                    "name": "Slippers"
+                }
+            ]
+        }
+    ]
+}
