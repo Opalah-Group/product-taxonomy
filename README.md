@@ -1,5 +1,4 @@
 # Product Taxonomy
-Product Taxonomy
 
 1. Animals & Pet Supplies
 2. Apparel & Accessories
@@ -22,3 +21,5 @@ Product Taxonomy
 19. Sporting Goods
 20. Toys & Games
 21. Vehicles & Parts
+
+Reference: https://support.google.com/merchants/answer/1705911?hl=en
